@@ -1,0 +1,26 @@
+{
+  "coffeeBeans": [
+    {
+      "name": "Colombian",
+      "roastLevel": "Medium",
+      "origin": "Colombia",
+      "price": 10.99,
+      "suitableDrinks": ["espresso", "cappuccino", "dripCoffee"]
+    },
+    {
+      "name": "Ethiopian",
+      "roastLevel": "Light",
+      "origin": "Ethiopia",
+      "price": 9.99,
+      "suitableDrinks": ["pourOver", "coldBrew", "americano"]
+    },
+    {
+      "name": "Brazilian",
+      "roastLevel": "Dark",
+      "origin": "Brazil",
+      "price": 8.99,
+      "suitableDrinks": ["frenchPress", "espresso", "macchiato"]
+    }
+  ],
+  "totalStock": 1000
+}
