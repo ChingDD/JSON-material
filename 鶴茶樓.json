@@ -1,1304 +1,1299 @@
 {
-  "records": [
-    {
-      "id": "rec15kBBaaFhyHZUN",
-      "createdTime": "2023-06-06T14:01:23.000Z",
-      "fields": {
-        "name": "藝伎那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attn64Jt2yPHrUcPk",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/JaGhAxkO20Hmv-J_JL3G-Q/iDKEs2iZ57-mF0e1glxTWrWHS6rJH36jvG_nL-E1EQOlxvEw3FNQ9XoLBFZ2GeMQXhixeiU7g-P-AQbXWQ-xqg/OrL3QksCQoQWEbUYSlTxAc3N9eneavVC6sP038qQ9uo",
-            "filename": "藝伎那堤.png",
-            "size": 1360225,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/tkoihWuQhpqvCrhSQTGyQg/j0ZieXOYu7BglsfW8ePzziAsbzZbN2uvUKMmDGdjGgKiy_5A8_ErutowX3JrT3zF7hWjPUlbclbsq63bOkqFgQ/4uhOvSZBbC-eEC6JDQB6BYmUbLNROqsZDf09ib2cMYs",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/PbcBiXQiKrAxE_ZvJ99fsw/8jCKT6agotovh17sAef5mWv1w5NottVKCWOs6Im1mKdNo_oQCoqJAExHZ_Jc6srfEl9Hm73Ywc0iY8jZzB24-A/NyLOOqIIsnRVYZ5IvdpG5pzi1-6JtFXgDjkeVmzEOC4",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/hlyNQCcc2Ml3JRDJrznq2g/Rzmq25P5OVyObFEtXKoFR1UGOm5MFEoSo4jjasX-Lq7Gj7KNSKzJ1pexlstIsOJmtLir-vNqtOOjZBMBo_ZxdQ/roTYy1fZTrwCe1p2VwKyx1VHqEaOouJCmmXhRh6tfVs",
-                "width": 3000,
-                "height": 3000
-              }
+    "records": [
+        {
+            "id": "rec15kBBaaFhyHZUN",
+            "createdTime": "2023-06-06T14:01:23.000Z",
+            "fields": {
+                "name": "藝伎那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attn64Jt2yPHrUcPk",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/y-0QXKC3jZNBiKaF0HBQLw/333kMC567vr3PwehSGFuBcV_yhRVDNmTaqFdN_vz0czwGBSP608PpNp7kRD18t5qEn585FOPuzvjncfxu2zemA/BCIs07Yx56u6Ye-3wgiXM30GvHA9zb3LeMy_QFoFi2s",
+                        "filename": "藝伎那堤.png",
+                        "size": 1360225,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/yXj4ckhD-5tacl45eLLodg/ZxMnZDgPTUNT8jnN7MwF2IaXdu8dvS75zmP0iiHnUJt-iyFm4s9nQRgxgSuSpspj-bWDhwfpJhA_xXdxjfnOBg/MH9Nb3Yq3vuFYcYR_DgPlfEUtTbheDO9YqlxbiS4uxk",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/zsfZiCoZ5SE8vi0TlVQyyA/WEUcH17-_eMGZ_T1-I530G6AIPAbKUwXZgVwtcNmPoVCXYJO8fzld2J_oPQfWKtcHjMcg_v82phbVZPpUM3utA/BMH4tz_FQ0rduqQ8NEm6gfllHE2euNj-GNXH5agPqAc",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/BJbOAGkp0PxXrUS2WbpesQ/e4Z41iaq4pjRgPcnh8-djle3yy4neieOduD0MPyIA8vrB_vRFZLxuno49Iit0FFVXmLYQPtl84LpvevTd2J26w/FwXQ9AuLMNU-Lc5u310zECT4O-sj8dIjmxCZQy1bsuo",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 55,
+                "L": 65
             }
-          }
-        ],
-        "M": 55,
-        "L": 65
-      }
-    },
-    {
-      "id": "rec3G0aYEBDdoj8m1",
-      "createdTime": "2023-06-06T14:11:51.000Z",
-      "fields": {
-        "name": "復刻胚芽奶茶",
-        "category": [
-          "傳統復刻奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attbOX4rPCqaOYOOf",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/yjLaUZL5z7qKxl5nxvYk6w/zEmM89aHtSqNOq1UfqivgfrtaSEs6fJCebjBDC7SVrHgFN-XvzdecujGIHY4spxENnyMl9feNUBpdivP4p1jrQ/u8ZmXfiwmDMMXCrrP7UvoA3EFdkjEDIp7Z0utPTFyEk",
-            "filename": "復刻胚芽奶茶.png",
-            "size": 1354407,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/2KPYRpR-vvcD_yK-cBcKRQ/lrPtyG-7cMrkNrEsa_HzxYDjRD5f66kpWNWHqObmactEdFPVrcaFLWNd2YpBMjmUM8alh2GVcbXO20oPmckssg/lVFAa0OvWPo0woOfgPzXN68Fw2oeNI_xOa0CAaCgooE",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/DFD1A1HHctMIYHjFSVZT4A/OSGFBNDKkeHRg-r8i9w03LoMlIE1GMtnAUiyfbmopVNChPNv0q_yKy7YlU18OD9LkMF4wUUkHlLyrtSlvWp47A/oQlVGXDCkD9rRFbK57GbChEQ1pQn15wd-AxOdRaxS18",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/x2iStw2DY1qmYL886L2Eew/-5gAxJ-GaIS_Fn96cfiwzaGvryKvEbNFRpWcOkGXlZLsf8pmmCzCQ3st0IWPMDarVdnpPPXlYhjU_pRqF0Gqgw/BTj3jASqjvrBWLG3LcJBXv5hzrIN3VKY7C4hzwj77aw",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rec3G0aYEBDdoj8m1",
+            "createdTime": "2023-06-06T14:11:51.000Z",
+            "fields": {
+                "name": "復刻胚芽奶茶",
+                "category": [
+                    "傳統復刻奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attbOX4rPCqaOYOOf",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/qBLr4o6HtjKf1Nc-skd46g/Ifoyewm3B70HTssxuoHNrioTbXd-4t3-7KnwOACCsW8PWfJBGJRseLvY4OToyWilNITCX7Un33LB6h_D6unRxA/Ws9hSv2ibcl3JIK2jPixzVN3Dj217a5ylGr_mRGndtE",
+                        "filename": "復刻胚芽奶茶.png",
+                        "size": 1354407,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/goX67lyXFguqwbcb1q4Xkg/-WHYSY9AcaxWBlX22PPR9by0bD0JlkjCnCFNkH1Oi-Buk6vCuDgH-qOM3jrv8BFNRi01SL27vEbEwtU10WUwlA/XMWMXxZMO8Clyp4TZSPRB_Rmpg3ollgBCayFyXOTxQQ",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/2b_5Y0kOTPCkhPkehqVrXQ/89cysIP2qrPWUqvkVvvIjJOVGmtm9pjZi8ELHGpcG8ZOkm0lMuu9ZG1XmoPffWUNnAHAor_PZoPy8yuNNbTaTA/whvT9KEkn1toflXpoPi1IAXyj9oO6sYOY4-nz6xMkcw",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/fJ01GV_PFOL40IhxUrnheg/itdRX0wOf14i_lZ0wi1gVGFeGpo9xZpY_gRNp1kC1q1djEtzXuY3zpRkeVLrmH_E1WicJtAfMxWohdX20QfdAw/uCA8vYgDwXBCDfedio3d23l0A0K4gi2Pym8_YOO6j1M",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 45,
+                "L": 55
             }
-          }
-        ],
-        "M": 45,
-        "L": 55
-      }
-    },
-    {
-      "id": "rec52K77HkX6lB327",
-      "createdTime": "2023-06-06T14:01:32.000Z",
-      "fields": {
-        "name": "綺夢珍珠那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attlLukTqHAKSxbyP",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/9-rbChRtn8yKlhpfiGe8MA/sM-afqalCPblj3J59S3Bg5hpDdxajj2qCsmxZIWQvzfwS7MbOMa_l1c_uOazmm5NjdcxKasTeoshlqLuyLu2og/-bQtozbmztpfVDjICPZGCc1m4-IZe_kK6ijQ4I2RRiA",
-            "filename": "綺夢珍珠那堤.png",
-            "size": 1406281,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/zBCPN-kKUJGLSBPcaU1xjQ/tuTx8vFJl6bqXbid2SpyCX_nZS60QJ16yEuYkDA3PoNVGlZ-mFjn1SFMqy33yJreRqGUm2r_9XY57s43kH4joA/r6ITSBmMDBrb7WSsJenzmENi9P7bizy0amrRyNEm9D8",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/01Xkq7bzu0f9rlWZYuZs1g/fpa6sUSRLo1rbWR-PhPIgY3F_4F3IAfes-zVE5rmUmD3EKZeZZk_Lz3YREl90jElWN4GaHZiB9-MP-Twlq1DUQ/wVCPxZ6svaafb6bYR1WMFcQW5zE2R2rFvwJfqblGzXQ",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/gqONgJonTC5EB33B0siVOQ/AODR1SBuW3aCnYnQb4jyqzgKmSCc9XLgWD4wK4Yix6w84e_L70735ESHfpS_7CcUvqScewGdmoo6oWj9vH4tTQ/vizYtDw4S2sfLI6spWQy-NgcpLXEnBuRRitZQfXMucQ",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rec52K77HkX6lB327",
+            "createdTime": "2023-06-06T14:01:32.000Z",
+            "fields": {
+                "name": "綺夢珍珠那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attlLukTqHAKSxbyP",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/zzwTcHkAPI3steCydrc9qQ/ftUFZT4SaaastAn5Jq9Di835Pj_NJJu5pwt9Klh8gT29kDn71F9tvdV2E61EeCFTqTDTm-74gx3x071p_q28rQ/ZHxgukLrDwMRnbcFTzSJgVFXHCpOdYI3BwkAucKZERQ",
+                        "filename": "綺夢珍珠那堤.png",
+                        "size": 1406281,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/to9-GJP917HsSDb0oZso8Q/jhHV5swzFF9foxvEHXnvfP49Oi3OsqmSKtW5kzGrO1SXbga4hf58juw8qjkUtq-pjGlPsfsS8lfh5Jdel13y2A/2FQFDtX_nPlnuQU4grcZkoixLPFm-lfbqGf0KlwOQOw",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/w6YLXK899_397W5IxA57GA/oI1FyLkWRSLbaNy9ONG386heNaZhZl4naViUAFbfj-POBTYgkzjTom3cnwyGZbw93ji1OT0Jn8Zl1WKeA_ekEw/AqBC5cv3mF4-j88xGrCj0E1LXS48UPsOYq-6hf-E4kw",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/t41_woXR54LfUX5AiuzEbw/GLBpzxw1KNkv97elWbkhctl3NK-mjnkbDk3-W8i880CZyI3S8hWP46rbQzXPlshVCLx74NS2yCT24wFWrvzNtw/Kt7bbiE_LpUW4jzNHceg5OlROZLdIBXZx84OqO6i6lM",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 60,
+                "L": 70
             }
-          }
-        ],
-        "M": 60,
-        "L": 70
-      }
-    },
-    {
-      "id": "rec5SqCFKTCxp4BQz",
-      "createdTime": "2023-06-06T14:14:01.000Z",
-      "fields": {
-        "name": "青檸蘭香綠茶",
-        "category": [
-          "秘製鮮果茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attNS9J5IVaIqsN49",
-            "width": 914,
-            "height": 626,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/g5Rc4tDScTz4JwoLCJAT7A/WkqA7X71dHmOc9APr90PtMqbnDAuHmhlNp9J72vRnTgZ-LT9dzTHk5_eT3YZqRTP8CpFgmPygVMdunHEmqs5lA/27n4zUazFk1ZiLzSEuBnCAiiPLx_MSsBdPc7-1G1U3Q",
-            "filename": "青檸蘭香綠茶.png",
-            "size": 880429,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/I0wWtWZx24V56GbrHe7E_A/-qGyvYGIgyy2NzA6I3DtsSErL8IFKXakxP3cqugkJwzuYGyEcXQLac_b2nsGJ9L26bKzFTfLMwMkrZcfBVbzjQ/HEjtBdmVR2U7Xtjp7bJElN548GJwpsMOfG1Sa7JrCwY",
-                "width": 53,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/dCSxISbWFAItevFFXzehIA/bYaDVBsNzQNoL9fAYHrUqjxeqf-E8svkpuy8Ey5Tyb_hJqInEPfrMhpR7HLGjtYru9mN4brz_5pirpDYNo50mg/QG_X133_MQi3hOf6edpOk12_4O_8jJODXXVDsCsSbUs",
-                "width": 748,
-                "height": 512
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/PKn6KQ_6TUqL5O3WLxelxw/yRkUZBElnT1Y3HjFcl-xjHQMcoCY0jefx-UHRebiHQCp_WPlw2CL7aO32DFWboCLHaOtC3FQG7UHLBTiT-GQTw/HRTecNU7gDNFgx7r_zB0lYiwCZusd15BKBLWyDY9g-M",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rec5SqCFKTCxp4BQz",
+            "createdTime": "2023-06-06T14:14:01.000Z",
+            "fields": {
+                "name": "青檸蘭香綠茶",
+                "category": [
+                    "秘製鮮果茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attNS9J5IVaIqsN49",
+                        "width": 914,
+                        "height": 626,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/B0w485sV8S9rvhmxgFcR9Q/lthvihI63FbO1UPVkJAJPfmFzUlDkehN616snMBbEwP1VeRoymX6IHgpdeQ-d13o6dUvo35jtPI1sFe2NHsP1w/5Qp3_ZqlnACaRTEocDZOKPJhDpJnyOhm18di8-mz1Xg",
+                        "filename": "青檸蘭香綠茶.png",
+                        "size": 880429,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/6dtwVNHoON4pQUrbliCjOg/LzRgGCI6o9YyYqq0l-cWUEmwLU0zjvgGtPIGB7SMvXhf59IWDx6s8VgiO6cfypg0EaVlJ01ISCEH6e9QKYogMQ/k4P_uoQPe9doasTtOvjX1sRc0ov-rQXGaERbDWHIDBg",
+                                "width": 53,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/mIjwZ6eZXzwd8_KBo5JaAg/nAhVPfs6jxTnkA-mS5gn1e2_gXabdX7e76kJxhoOh0p6ZI3mJYZfiwWIRzz8-mQGMsWMv4slfMkLiAWsHWklyQ/5jfBpN30-UvzJVM2pKxMGY9HMLiOgF1osPIvHIxg82U",
+                                "width": 748,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/GTCwewwLpVDCYXESxM9hTw/FAnnAPtco84Mu-21dUbuaNSDJ3QTKH-m1aUYmx_N3RaRAFZurcGkT4NWv0Es7SSDm-ywk3XPsLZqdhxG_8proQ/IPu9lfZ4W8ffMD1ye5D1lWefZtvHOLvKq7fjjN0tM_0",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60
             }
-          }
-        ],
-        "M": 50,
-        "L": 60
-      }
-    },
-    {
-      "id": "rec67jBXAUzKtG08s",
-      "createdTime": "2023-06-06T13:50:22.000Z",
-      "fields": {
-        "name": "鶴記杏仁凍桂香烏龍茶",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attl3rYhl2Doezugr",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/h7QerghfHNNHp-VolMnGuw/Q0dMUxnSRitTRdpTXpWmxufiE_52EF-UpN9MZW7VTicWMkK4bZw8KzsxJDjPSxpv6NO-sSsNzdvIghb8uFh4dw/PGPoX_2Q0-l22TNBJ41Hlsh5_wfoubGp5bb7CLctpmQ",
-            "filename": "鶴記杏仁凍桂香烏龍茶 .png",
-            "size": 556314,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/FscqHpjvKqEfOvMbhToOwA/wDReMpmbYSZrVJGrDOJz4d2ogOOEHj2zmRC1MOu42soM3uPeSYsem3D6I0BrIXieCGUSBbOW56Qf3MtYbL-4uw/1mk6xOHNYFQ3sBeBqH2SRK9wzdRtkauNeI5AUkJdhf8",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/1iBM1xCb4YOlXXOhVPYFLg/h1Eb4OIXwDOwBQmTzM3IFt73QHSiEh-e173bn0YvDAQV55IOkqVFLYQFLVQkqTkCJK1JppppDiXcSQgomBiwzA/79elput1UwZROzinkuN9s7f7n6Er7RcSyNJ0AY8CbWU",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/loEXBBxtsuJtChV7ZoxAHA/BwTAoNzvthE2V8BmCmkMxjbfqCw7unSzSI5QitxnSnrc9X8YwJXzbkN-6RPzoF-5Q-xQtoWTc6MMKzO_AjCbgQ/bJFxmnEvYBSpBpImB7DJ3HXRzEK--CsNoYQ5Wh5zQgg",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rec67jBXAUzKtG08s",
+            "createdTime": "2023-06-06T13:50:22.000Z",
+            "fields": {
+                "name": "鶴記杏仁凍桂香烏龍茶",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attl3rYhl2Doezugr",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/cQYsjCxRLg9VwPvocAjK7Q/gRx9Mnr6uToo85rTnblI0dBTbuE3ALkBOu0ZJh6lC-YKHREsyv2OQtozwfPf_QACUQCLtUo1sJNKVGsiPy1orw/ePSXy8EHjeAFIGMYgOwRU2Ma-T2SD8QIwL5ti15oG44",
+                        "filename": "鶴記杏仁凍桂香烏龍茶 .png",
+                        "size": 556314,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/psjtpAQRTkbTFaP8wYC9Bg/PvNA_K177F001spCoggdlOaBECEGFCpOQNH0l3Mm-JL8GvAE1U1xh17Nhr_5ZRbe3TRFVM8t8skrBN8ZKiqIBA/3qVEQoFlAheCZpQonlw53WeNQa_-0ddvdCnJVfOJ-PI",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/gaEmgfqqtCwDwwicbCk-XA/ZT2Wl9fjhI8Y-Pzjc42x_o7sdxw2t8eB_fn4AFoyAq2pJRWNkn6MKLJZPQSU0qCPISHX5LdIIFVLvXbYWbjhdQ/WbO4YjtGy5wFR7fd5SPdVNj2vyxvEo6Af6X0VzP_y6A",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/y5q1zptPin05BAtsiBkMkg/VpmmVB-X9jSDyKn0zIGSoQRXKpegUJmANDKRspSKgBqHP0YqAMRE3ng_LjFu14gKvEwo5zG-SqMcpUU26sISrw/9dFVfoOdFtN9YYBPBkbcwIw2XkGudTE_5lwMviuuzFs",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 45,
+                "L": 50,
+                "description": "軟嫩的杏仁凍，在桂香悠悠的烏龍茶中輕盈飄盪，濃濃杏香，溫潤厚實，咬下一口，襲來的香氣，是台灣最日常的味道!"
             }
-          }
-        ],
-        "M": 45,
-        "L": 50,
-        "description": "軟嫩的杏仁凍，在桂香悠悠的烏龍茶中輕盈飄盪，濃濃杏香，溫潤厚實，咬下一口，襲來的香氣，是台灣最日常的味道!"
-      }
-    },
-    {
-      "id": "rec96JQOpsOB2DR9t",
-      "createdTime": "2023-06-06T13:41:27.000Z",
-      "fields": {
-        "name": "鶴記茶凍奶茶",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "false",
-        "M": 45,
-        "L": 55,
-        "options": [
-          "桂香烏龍凍",
-          "鶴頂紅茶凍"
-        ]
-      }
-    },
-    {
-      "id": "recBmx6QvyJlBdjle",
-      "createdTime": "2023-06-06T14:11:31.000Z",
-      "fields": {
-        "name": "復刻波霸奶茶",
-        "category": [
-          "傳統復刻奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attGuu0HHMyKXVNGJ",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/s4FgqmzRSpZwLI7LUu9mfw/hbJuZXXJrlM4pXK4har-YLtKTWhP5c-ErdJmZqduD7HF9lOOQl9ho4f7Nteis19Yomsv3MceWHhblgXYlXyzig/FBxBsi9h5BJx41gejnuEKCaexQ3SRL73EdiycefQk0s",
-            "filename": "復刻波霸奶茶.png",
-            "size": 1348169,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/O2pUxaybLs4JPk-upPmT0w/Nq__RZwRlfizNmJ__mCxj9O579DztBJPmOn39GwqcCdn6ie4AsXnxL5RXXpo4tTDrwQ-jpBbomoUs8PGdnfbJQ/w-DmLUJW2C8Rp7dhcerB4oSynCHMYsKh5z5jD1ym7WQ",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Aaoq7ktfUInUGMzlLJV8hw/oYOqEVJST29DJQjVxFTSVxOxcwpz1Y_3Iw43RJhTdKKyyFIJnk-ARnrMQt5T3vBetjjK-wJm1Y3tKVdlerJxiQ/YY7AfxzfGcXAMNDzAF45SPDtQ7SB-vbbRco_QR4podo",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/dmoq6DpbdNHdDU0bQ8s84Q/sbCX7boZ1DhBr6h3FlJT2ylr-ILKuRGJQP3Loi2_46MH4U4CHwFzQK-A8GcHqo5RgF5w2G-eVQOwukd4-FWKZw/vYYkvmfgKi5gJ3a9gqboji_VfRTIkPYMha6tzMkq7T4",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rec96JQOpsOB2DR9t",
+            "createdTime": "2023-06-06T13:41:27.000Z",
+            "fields": {
+                "name": "鶴記茶凍奶茶",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "false",
+                "M": 45,
+                "L": 55,
+                "options": [
+                    "桂香烏龍凍",
+                    "鶴頂紅茶凍"
+                ]
             }
-          }
-        ],
-        "M": 45,
-        "L": 55
-      }
-    },
-    {
-      "id": "recDvlvbo4Ztztuud",
-      "createdTime": "2023-06-06T14:11:58.000Z",
-      "fields": {
-        "name": "復刻厚奶茶",
-        "category": [
-          "傳統復刻奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attmKrNEqHdbO5pDQ",
-            "width": 914,
-            "height": 626,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/yBsJEBL-J_1Nh6gHYnFCJg/R3So9kG6GhkzJwbiq5-ZaFaEff9fUc5RJP8kbuzn7J02I-hbAmAd-BRRT6ghFLYwSOV_pnioQxu_FmXUjWshdw/n-87Pc7EXeoFhRDFkqPV5P0Hte0wJ49blfvHnxQNkJ0",
-            "filename": "復刻厚奶茶.png",
-            "size": 278593,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/34jpgbqCW2YZGLEpPZMaMg/chCO-yEMpCPGi9JIWg7TnP1dD2sup-RYhEzKdI151EXU71cOSn2K7hVC6TSDSqKa4B1eiMxNkZarT23FO2Q5TA/O33PkvZLh78qHGya_9EGQJ2W-14OX4c3D2cKLH-Uf4c",
-                "width": 53,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/afOze9Cv6QL6nZQr8iWzfg/cc2UE-gWxBA46hMew2h0SwTodb_b4LStx2xLXhbDnFrHcY38mQr3K6SkupuXKH5AQ_JjC0g4GAi21OFhDe0BKA/1XcBgRs8PPpcmIWHSIWJsSQbHE08AxZqjuyXyQRAdb8",
-                "width": 748,
-                "height": 512
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/te1z4kwSPHWjqYONQep4eg/WU1kgoG7vz5enl1G-6r0GEK1yodyo0a-8cG3xR5znMp6nmOX5Q8SjXEdHSLW1aDh33G4NAx1QjVTisUYvCquRQ/abdfAImB97XGEmCZD45qkHzHYY21cYf5CWaNLiOKwn0",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recBmx6QvyJlBdjle",
+            "createdTime": "2023-06-06T14:11:31.000Z",
+            "fields": {
+                "name": "復刻波霸奶茶",
+                "category": [
+                    "傳統復刻奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attGuu0HHMyKXVNGJ",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/vb2ybaufbHdIDx9tT7xQNw/TPD5mLs0zBgw0S18HfXLkjldNc3qPWQNPcSLwVZH90akY-kBz7yksQxdHMowJrX9sIifkJ012_EuDAhcT-CxWg/SveOEEs-quy3jmaUkt1qQ-LKR5rorlStDfjW_UkkNPc",
+                        "filename": "復刻波霸奶茶.png",
+                        "size": 1348169,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Ib-UNkEIDM09EIsLAVguQg/OLbFwGVv2sTNoAgl8iEQ0rD6a6pUEojC6gQtftdrZg3v8J_Jj-MxVt2pBA1U2hPjfvbhw9hbalzZnXHguqg1yw/JgjauPXvO5KdOnKfyzeAWychBhcDwpDsSScJer9cD9c",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/oTT_LDFb9OkUoQEEvfaEbA/kDjGaTU0nDiRJEe_9SKD54WU3Durl-t4d6gmUgDfWWfT3F-RgKvebW8x5UUx0RBFlQX10Dag2t9TfirFq2YnTQ/CB-zB55nRHQMiuvATEv4VklKxAQJ_LOhTRWjxEvBjws",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/jy15054gYMy_b9Y8VslIgA/ssCak9ChqdnpEXR3MfnB3aUzRm6KjDKtaaBRO-w1Q97a3CxZ9iZSs2RRFsNtAbFA5vlPwgTBPj2CuplloWnFhw/jbUzC2QWYyz1K12gFeWiIqBi3QY-6Ewq8fg7rAtHb2M",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 45,
+                "L": 55
             }
-          }
-        ],
-        "L": 65,
-        "description": "復刻奶茶再加入鮮奶，雙重奶香，適合喜歡奶味偏重的奶茶愛好者"
-      }
-    },
-    {
-      "id": "recFTF4UlCn3zShfz",
-      "createdTime": "2023-06-06T14:14:27.000Z",
-      "fields": {
-        "name": "鶴氏姥姥水果茶",
-        "category": [
-          "秘製鮮果茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attMJJuJ5L2nikpe8",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/I635_B37xIzyjGiVBIaJ1w/xKiBEcQ07yl_zkbHzgbEM35kFvkUOe-Iwh-DWQds8pL0YRqGNdjscJF4ezh3sT59XHFE29QlB8Gtw-DAgrgH3A/Znmd9RPkfI2RrnzYtwaBh2VW1Joxcw2i3Ck-Oa37BOQ",
-            "filename": "鶴氏姥姥水果茶.png",
-            "size": 1677391,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/WXoJhM4zcpPmA8jLMw-_1A/uzwJp7gmMiNkJlRByuqnxWAzd2M8mFUBpbMFHH2kHwgfzwPCqHIoUpRatA-7wLm20j1HoTUzaIaiCXpf9aWX2g/MN969iShMVSU-hlLwWHpk7JfYq_kxbwIvExC95Uh4Pg",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/cAiBG_Yvv4eHVoliQcB20Q/GOTXgwPHuZa0SIZKXfQuxhXKoSxkTaXNpezo2Kr8emgMVIrxe1NmaCIQORsMLnYzmb3ReNdYGslIS4fbJvi34w/HQvtkpjj6npSWIERPYNTkIz_hnKUadHVzHWDySiGE8I",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/XJ3ZFtX4flkjqTbXNaJM9g/tk-yCT5asLxzcR-BQpqgKPS2RUgnJwZiO70MkWvctKyhv9_0Ssa0CPUZsbUf5hasfKdbiguOJY875XC-jvEvaA/_xvSssrXq2bIP6y9WBMF4auVozicFkP2H6-B_8qL8yE",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recDvlvbo4Ztztuud",
+            "createdTime": "2023-06-06T14:11:58.000Z",
+            "fields": {
+                "name": "復刻厚奶茶",
+                "category": [
+                    "傳統復刻奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attmKrNEqHdbO5pDQ",
+                        "width": 914,
+                        "height": 626,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/neMq9LlUyS4MloO4ZKVSZA/okl7KMf7CL2wbb6KVW1L9_WL0IrHX9kdHoNrUY1hUeahI1_AM3F7NZ6ntBnZSm6v4jTci6MY2WEj5pqSQbtjng/ZSWQrep_DjlhCYsaVCW7l6KGxMAEsCr_7MgGU8gbRYw",
+                        "filename": "復刻厚奶茶.png",
+                        "size": 278593,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/iJLfQRbTbulItWTNyBss_w/yuBvSmY0m1DTA6x09AN9bzBVTdq3cU-wPM1RgdTiVuuh9iT10tbFOsg3WrUGQeCFmk_-eD9NfhAGqXvsL5dt4Q/UNQbyi3Po-eZcJbP9UtfHMGErmEY0Lhdzhu8VQGndhQ",
+                                "width": 53,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/_NWH7Kq6YRkR4Zv3lIahKQ/CaCCOm-fQDZW4obWUwScXVZwNydso3Z8ikKs1UsSh5zOuP062SXxLeKTkPDxt9rGAMd5YzjwquRxJf72C3QtKw/1GG5KLjK9kUYu58qZHXPYBkJmpGH_dAuqAeiv61_9qs",
+                                "width": 748,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/SeBz7kSjT7Js7u1pkH3EMA/undS3UwQb53xW-zrxM0hSAyxA_T40uAjy0dafwvC4SGsXszg3giEQ90ZA0GMwt_RM9MRJuJsBABq-LcQ-ajBIA/NrQEylCH5qWPcaElKOWINWQ2vaJi4PysOvXpCoQh2EE",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "L": 65,
+                "description": "復刻奶茶再加入鮮奶，雙重奶香，適合喜歡奶味偏重的奶茶愛好者"
             }
-          }
-        ],
-        "M": 55,
-        "L": 65
-      }
-    },
-    {
-      "id": "recIXQmZoYTeE6fyL",
-      "createdTime": "2023-06-06T14:00:50.000Z",
-      "fields": {
-        "name": "綺夢那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attF0lRxVQIrjAsc8",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/DuoAeX_EwQRjYou3GhTgEQ/S5ewTp2Nd_QJH_wjTEKBmY2PNqq9RzTubJ9irn74PxIiyT5Xj0paYaOMbB7djFBVUfKJhPNacK6YlQcQRDXFiQ/H59Xf6SCT4R4kcmpqqpOEvQD0GkkzzY9ICNMYrHl6y0",
-            "filename": "綺夢那堤.png",
-            "size": 1360647,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/VZfp--OXG20b4yfAt5ICIw/mDhokxFqH6-m98qpKCIeQVdQKtp3Md5UWjIRp9l1F-EwNo7wOBIIeiBJBeVWeCCd46wsDuMXYOxUy_H-g3KpIg/8h3hvdsvw4YtrGbggHhk4sGyYbXD0h5uLpyhYKGviA4",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/w6RLI-44fze1X_G3n-cS_g/Y1SwkOapMImc1D226POLTKsfF1OBqpabc_8U2A7L7aHmcKtP0k4_3SkNv0B6pCmiKDo1TtkRsFQpopAkdPwc9g/7EpGn2AbTwScN2BM2ZHm8jvxIFqQc5eToUfPpK0vJiI",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/gJb5IC-hoRlbtpDGy6WaNA/WC21Dl76ZgrV_nYfkOxAeNrV86mvKWuQJpFED3G91-16-Rx0j9U74JJ5taMkKtBcS_uV3JSY7wH5PTLaPlFtpg/w7jE_br2fZFrgvJMTaIe4ir_DLmGWhT31IZXfpyPjjk",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recFTF4UlCn3zShfz",
+            "createdTime": "2023-06-06T14:14:27.000Z",
+            "fields": {
+                "name": "鶴氏姥姥水果茶",
+                "category": [
+                    "秘製鮮果茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attMJJuJ5L2nikpe8",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/SgshSp5bUJku0img645x5Q/kSP7bGvzqPbIlCWxvSN0Yx-hrtZNylVpdTdU775rZfzQgB-0NxiOzHNqSoUv_PhIBrGK7xFJPLoDYCLdWRbflQ/bbAUnSijVyg5Ud6G0LMr2l_VPDguhkTI5WyBPb4fxuE",
+                        "filename": "鶴氏姥姥水果茶.png",
+                        "size": 1677391,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/OEFliL0B0Gw414X4W1FqWA/XPGgU2Kvb4NemsHI5xitDqNlrvE2VfjOVx1U__f9uyBGLp6LwezhEMSL6AkFMj6xqtu4F9CHmrp87PwHzg3ECA/o2sVUFujpcQciAD3MYwP4pQKRo_ZCwvCyaB681T8sU4",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/dmkiHvme3E5Wx5bEnp6pXg/aZfehTfgLzUCon0ZNLn2kiRsyRRJeuj_wLK0zkt55_8sq2nWtVARVLqyAcFCQmFy7mKOQxefdT8vUraDM8SVRQ/JUYMSYht0CcSrus-K4Tm6NtmD0kiPF2BmkGSwmM_njI",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/kRxjr8I1ycfejkHh0MxdJg/6cgzHYSmhpBY-Hu55nWQGaLZKSZ5lrn4AUYYxdzQb24v8qR_dcvKVWWDHHpYTCsyW6CaOP-u0W5oePDpw7R6Ww/vPboEHV26OZf-t5TOkKsLXQM_nzW4GUZph6rLLQl6U0",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 55,
+                "L": 65
             }
-          }
-        ],
-        "M": 50,
-        "L": 60
-      }
-    },
-    {
-      "id": "recJ8S9AtMWhUzZdO",
-      "createdTime": "2023-06-06T14:01:15.000Z",
-      "fields": {
-        "name": "桂香烏龍那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attuy72vfq9uu8foN",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/rulBSK55tfNmM4ksLaBb7Q/EypSdzOfIaopJ5aObU1u9mLLHP--vADAcRjQ-STRpv-dC53qZzzUcVaKth8xwULuMajQf2ZenC32Zj--xoEajA/lujBxeghNcinqIKcwrvoYL5bIcNc_i6zVL4yb3kLmcU",
-            "filename": "桂香烏龍那堤.png",
-            "size": 1361489,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Nd1AsEKD46aJPTtRa22Nxw/HhHX0xIVchA0oJSmWCMXKVV7YxTaWEdsZWC1051W0pHKEaU4XyKmuMtlGRl1YEQiBrq-xNmM9FWKyUnj71MRmA/6sRfo5-puFTiTjZ_VAK6b5MQAhuBuZSx7bwApJ3P8vQ",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/IeoxVrt5fV7KJuwVht5duw/QF6BF2NuCGdg6wrsxHxOtFwF-vRgK9uvzCNxnVfWuLuyr3MTO5m9dbVVB3MxtrBgxpXxWn3WlSi73IGRAoMnxg/trW40sOjSp4sIyAkgl52YSiAfpqUh5TYyOsUm9yguKU",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/uqi4z4GcVh7y3y3MpfZimw/Ze7NNx0rp59JDPU_Bpxh1w6bLVjU_fqWwIHj1TAw3l06qy6stBKAGgaZNW-DOxOMKFkbJgsMxCxPHumsixwBgg/bO4SlhqRXAGcH9tnzA40fYW-AJSy3Ao1qWLbIEhFB1Q",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recIXQmZoYTeE6fyL",
+            "createdTime": "2023-06-06T14:00:50.000Z",
+            "fields": {
+                "name": "綺夢那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attF0lRxVQIrjAsc8",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/jFoozvNqPgNkpk4nP_KKLQ/3vrzsCfy_gaopUAaKb2NYKFZyUlVIpyuoGCrwOP-ygzyEShFzAaS9PWItjorO4nD_AxWvtdiAaD-zFjr4v0gGg/1ItKo9zVNa4yqr5G5FjsNhCWtPVT18w4kEPDDTjoWwc",
+                        "filename": "綺夢那堤.png",
+                        "size": 1360647,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/zn1qF6MGDpK3dQ5WXz-_Nw/zfzGkIrA4igZ8PraolJwEJyX60zYuMyGnAE7ylYDlMZgPvCRAJPaDr0eH-7tTCUhncu9tz2c8a7spvP54vZIhw/GJLGneCq_RTf7Pu1TFC3j4yvbqN-59bD5-onrqs6-2g",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Cud9Hg01uXxN2lKNN6vq_Q/EQVkTCG6N-pkcYhaZ1OYyAA4Q3r46cYF-ECy0ORuaVPBNw8pskVsisc60JmL9HLDtltVyTgtKNlggkrwgPIZTA/LZOxkSjirO-GUQRbr5C8mYPfT7x5Lxz_hlG3fQUTN_c",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/G8xyo8cAZryi4J2-heoGXA/o-nFoAYr53mTFj8B8zQl4xVZcvz-PWEbkEXp65IuwlyEMrAu5Qzavv5QOyxwhXniVv77a-673A9IRtszL4N9lA/rwGJLZBUJO9wWojI5tAqSOlcn3KBgN5su3ji78Dh4xw",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60
             }
-          }
-        ],
-        "M": 50,
-        "L": 60
-      }
-    },
-    {
-      "id": "recLZV0IQfEqc9vNF",
-      "createdTime": "2023-06-06T13:59:39.000Z",
-      "fields": {
-        "name": "鶴頂那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attjnlY335tqRHbh7",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Ua9G4q78v36BjjoW2c7FFw/ByGAHVQoOOz79G0FsAIv5spyYzDbXTrDu2pZGHpBmGxTV-J5Fzr7Bkl-GeaSi2oHLI1Gwe2hApUsHD8bmQwXwQ/QyOF6s3BdQv7aaSP-3exTp-BfmzeLrE-eu48YgXCIyI",
-            "filename": "鶴頂那堤.png",
-            "size": 1360225,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/h5g0kZgebybO7VeOpalJtg/sY5kUIVmgVvzIfCHGhbUZ9mCN0Vbnkz5gLG8cImCQC2kTV6o_XQea0R5iE1rHDt7zpn5mJxT_Ep9KAuE_rs1rQ/d0oCirGNIDHXrofq0Hq5n4r3R0Q_zTodMKlKSNG0zX8",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/phV5xXE4InceY0Y6hztAQw/bXwq0bsfKO8mwIp7PUNjD3fjNJKxWFz0lR9FU8_z_sTwy9EBOd8yK9Uu2JdjmQnZ6I8YDUk7YsDNev3aViYUaA/MMTVDM3Xy1DNhtn-K-3SaCQaYnbMLR60rEQhPqkJGRI",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Mfg2bde9tMbOKSJ7c1YysQ/G6NcqLJLsNU6UP9tefbHTpjekrZWSvT5wpEMJQdwX-RvMsxXYG3KUN5ebkAdqWestgCWBs52Be9bRvzVtkhKbA/JhOEOLWktGvX9oRE8uiqCq8qYpVzazPZpciKGmxlAzw",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recJ8S9AtMWhUzZdO",
+            "createdTime": "2023-06-06T14:01:15.000Z",
+            "fields": {
+                "name": "桂香烏龍那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attuy72vfq9uu8foN",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/0Qo6t0EB315EWsDiBrQYuw/eXlUO87iPLVomJLxMFatarK4ky75Y1PE2l4oebGYVPop2ZYfyS66S09AYOPEpNTehAHgJNWj2P3Dq6WyvZd4ng/iAZkDTa5vFQSxeJLkQ4eWNtX7n32zZtF1YSEjm69fzc",
+                        "filename": "桂香烏龍那堤.png",
+                        "size": 1361489,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/XKLHVHFY8H4qb8tPWW0U7g/lHzkOf7fZvzvas9uxN63yvadRTmoOnzUERi4IrNU7IXuz4YQxsEIuwtUUuRkKIcVhlgFKYicCjaTSt3PFk9jWQ/wHeHBUmBIP5vZYwuf9MPfT7TFoXY55L5KNrikIo9zM4",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/lpVi6ooARu0NmzK0CdJRBw/fePEjUAY8ESIW-KaOTPEcPwj_2hMOc8HGU66x5Lajk9W7LLkhqfnN0OecRqrYqdyO4CtTX0bwNWFeh-NCmCXYg/U8GeQCxvUEbDsRVTaGawr-gzyMO_AY3UAvF85bvlsy4",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/YxNzd_yuzXjGgFl-9A8Bhw/MutB9DaMo5CKRmvg0rp7Mv3h2eHwqz-vsVs3IsXoCDVKp_wC5xGFdOZXn-85W6gmxU8uqPyIUmOzd8S1ZgVXeA/agtJ4-FIKRvZ8kLdynQhLkwdGi8wiFIQm_TTQx5gFmI",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60
             }
-          }
-        ],
-        "M": 50,
-        "L": 60
-      }
-    },
-    {
-      "id": "recSCjH86B4y2ZxEl",
-      "createdTime": "2023-06-06T14:14:17.000Z",
-      "fields": {
-        "name": "柳丁蘭香綠茶",
-        "category": [
-          "秘製鮮果茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attr4a8br0cXahRrw",
-            "width": 914,
-            "height": 626,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/29LNJFbMBlzZAYNnLM3z_g/qRDW1h525c9zFYQdxi4eRF4LZXouAlxv2Tm05DF6XmlKIv7lKhlUwR6xKGuQK3LQ2cnBcxvWnJWDVojacOd0sw/7MIAT6wJLA_JIvfHas75WZyfUunI1fKm_hMHv4UT2ws",
-            "filename": "柳丁蘭香綠茶.png",
-            "size": 258820,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/F8AeA_fZmQkFcU5MVfrZIw/Tmp67BGuVBf0IbHhXz8kXX3IUL5X8WLkHqkz2y5cAWYmJ6BbLLPiaG9qXsvWYdzN8ZXacReVx_0os6fy84mRXg/JK8hJHCSgg832RXDP-HCjgeKj0o8YN0B49W4D2PRBzo",
-                "width": 53,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/4v95MZxd0nwACVHn5UALIQ/PuNVhLEPMO3JZ2_78WoTAGBOUbcY9lLZQ84LCqy63IV77AQd--62MUxU0L747YJnakbQp7s2tm0u32wTA3hg5Q/saQNzVEhHg4lyxxkPGmQYpGfchlr-_fxnTyG8vIulkk",
-                "width": 748,
-                "height": 512
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/gqH43uDe89rLAZYQRZ8RvQ/rnFQGfHIIVDrBMGLoJQ6pWNS_4rjjOCM4E7qK_T78WcxNgp8GNyTILRlqImHVIbfFaljgUFH37pqiBxMwZn8Xg/_3u3WPV5MZOpjQmtSeAGTNyqvKMXigrpKWAHUEDKQkw",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recLZV0IQfEqc9vNF",
+            "createdTime": "2023-06-06T13:59:39.000Z",
+            "fields": {
+                "name": "鶴頂那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attjnlY335tqRHbh7",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/DGs0Qf0mLD4jK-czZOS0XA/1Hfkh0ky_BUGvperdr1-urWI0kI8FBr9kjlM2sAx_6DSGloCnPkFlbewcsspn7cvQecmKEf_VZiXdT-6NaWaOA/PPxlbl3HDW1r-aa2N6CGc69__bsmTxBjG5RtBXp_XFA",
+                        "filename": "鶴頂那堤.png",
+                        "size": 1360225,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/MYT7Ji0H7nxVtWpv-WuawQ/Cx5NcyznEKH9k1d_LtUzmUD0CGkHTAMWuyQx7n4qMGy4cVUXthaBgH0x7dUEGS6dkBnLq0jmyYEzHXzRxQm0JA/QScaCX1eI9_nxVddcLNrUxFYDpUZHcxe3y3tz-K4R8k",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/8ko1dnthdJtTFq7aNwk_BQ/0kKrYlhh93dVAQfqaezoBbqbWeJJgRh9DHkojq51THmEVg09tTDz5Gm-Be3z9SorYQ7jI4ss_q5QpM_L5Arx-g/QV_l1mFMtIRL-0OQ2-pDEvCX04Sxy2uw8v-3Yvhmy_g",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/ESKeNy12QK9y4mU77SzQDQ/-YttEgBNbzkrCPzCiIY7bzDdoPdT4wn4-fffxMpMsrpju2kRrrCg16ECt0JNg1B_EFsdEH7IK_033uuB--i5nw/_b_pQ-grKWkzl1mK5aGge68q_b7rmXm2Bi8bu9ypqxs",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60
             }
-          }
-        ],
-        "M": 50,
-        "L": 60
-      }
-    },
-    {
-      "id": "recXmjPll8GGGeBzN",
-      "createdTime": "2023-06-06T12:17:05.000Z",
-      "fields": {
-        "name": "綺夢紅茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "att980zOYo1ouRxaw",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/uH0YZOFKd9prUWbtjdii-w/PDUvAfCA_skUKwUfiz8bTRfOg9MMhIow6GXQ7EydgplPfh5JRf0rKhbAW1wT2aCCG8rNHPPk0Taxpf-19Rmw-A/KfsgqO-ntRbVoieVogLl9gvxexXfaKWnl-sXLChPiiE",
-            "filename": "綺夢紅茶.png",
-            "size": 1304938,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/b1Odoi9l_njy3itAW8D5-Q/qzBeujMirlB9zjsc-d8ueBsBS0Wt0dVDs6gv2CSYFm8bUfmVHO7wbIwD4lwBGlxJ9eF9d6SCYfyFwrfkY_cR9Q/rsnxghb2g0xWFGTjx00LLxNMWgXDGiAPEFxsAEjcq58",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/AZiYcLJ4b-7Q9TIFwheXmA/QO0fF4hnncScVEOXonLZerI9vUC5BCmQb34YsoWH_m-rZW5V_eJ5vw5e1K1oKsX6Ir1SdKWaxDwkS5VpHdrJZA/oU-9NAbEGnYAG-aM_LNXnujcNsnSAOlMu65MOxBBAG0",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/8GFJNduczl-qwfsnZIsN_w/0VGKDWkpDGYOe7CDEBQAuVhoB80jZqfhAfKuNFokCJmRGPJu0g9Cj_d8sf62UmXrfvhPLb_I3cNwTb_MNc23Gw/C2T2SZu39fwpc5geTLbl9_V9kct8RjajIwfahVKL89I",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recSCjH86B4y2ZxEl",
+            "createdTime": "2023-06-06T14:14:17.000Z",
+            "fields": {
+                "name": "柳丁蘭香綠茶",
+                "category": [
+                    "秘製鮮果茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attr4a8br0cXahRrw",
+                        "width": 914,
+                        "height": 626,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/dcVRRk_-auLuQBdczsioRg/5Vle1fwUS4LJyZw3kjVfqUQQcuL_BCz4nJ-OuGt1J2n41gkJqsPhhRiWF4atpJoMegI2vKjQDasZs5_pHXBtNQ/FoKUm8sjSmROCN9lV4QRm8BOcvELHTkCW6OqkOxv624",
+                        "filename": "柳丁蘭香綠茶.png",
+                        "size": 258820,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/rtxEt9Nn71kjYkSHx3Jv1A/dNFzxMg0ODdkpZJ_-aocJ7fS0D3L7NGwCWGD7F9mwpHHBSnov037N1JO0TNhRxfpMA_bmEq1DPXg9Lo3WZ5Zlw/AA2O9wGhwy3ElMMvBnTW8ScMEJ7l6aFRfdeUQuyRFfc",
+                                "width": 53,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/gMLhLZbkQoEPo9Zn3cW-tA/Jo75oKbid2b0-E1IDdmEzoCJkRIGeu6Yw2lv9yE-Pq8UtaonkTlXZjwP4Zg5P21mKBmhNNgxeG-uhqLRIf9LfQ/KBtdwfgvhzLJI2x-hrPulBP-_mFo-k0aKXQ-pjH7KhI",
+                                "width": 748,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/QYzcoVsb8CUgA42GgttrXQ/udjMhlMbmhyQXcn2KycqL1kERExbtkEAhO-UZcEkiqQIAd4jJZaf6ApWwnPfIL-2-Wd8KffagV0w1cuh608gIw/CWNGb__xADpP4rxfn6vgYLME_lnsrgIxUxdPldzvjzM",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60
             }
-          }
-        ],
-        "M": 30,
-        "L": 35,
-        "description": "茶味濃郁，帶煙燻焦糖香氣，尾韻則有龍眼果香，多層次茶敢，如置夢境"
-      }
-    },
-    {
-      "id": "recYB4i07SwEiMy8X",
-      "createdTime": "2023-06-06T14:11:21.000Z",
-      "fields": {
-        "name": "復刻奶茶",
-        "category": [
-          "傳統復刻奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "atttr03gf4HRHgOzU",
-            "width": 914,
-            "height": 626,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/yghltqSUJcCo_ZD6TBK1Jg/VvxAiyX8yfB_OgqWoziNuhcv1bHy9Q1KHHDFtz8W8HsgfhisQVYRF_sChfNyl0AmLqpWfa0qA7shOtY2Ou0k_w/Zj7IsPeU8MKVBuoNzf7lFuPHtCe69F374iFnP75btj0",
-            "filename": "復刻厚奶茶.png",
-            "size": 278593,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/k3Os7ZocgQXEv85u2BM_8A/KiJYnHbsac5Ha8MCIlp5acYWbiEN_UMasaQQ3f9QwQmjmmURWtd_8_1UGgH2suHTjQmagLQt-TougdX-KCM43g/PKKnhCvjmme8KG3f0TIucPcwaV1YCa-374rZOCO_a3w",
-                "width": 53,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/BcefYoY-YsVE7yboYPHGTw/r6q8LMGOq1pEaP3R98g7dx3o300cbzZltEL3xtpH7UxSNtdY_kmROMQFo5BcD0xgxypMlDCwezxiELGPLbW-6w/9iBTmfJGuPh3PVb9BDOvLKgRy73c3STzX57zbhQklzw",
-                "width": 748,
-                "height": 512
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/4bSDzug02V6CC-z5JfyFMg/ywMzbcD3MFMPwNjJqOATqhp2K_64HzNT5Hwi9Ed3T0OahX8nSQGAP2Uq2WZnufOe_EUB9O7TjqklZTnPE7exvg/GkiQ3k034Kzq31EZ8DCoXvnfMEWevIiRsuqFT7549qI",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recXmjPll8GGGeBzN",
+            "createdTime": "2023-06-06T12:17:05.000Z",
+            "fields": {
+                "name": "綺夢紅茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "att980zOYo1ouRxaw",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/uA5B4YQ6U2zSp2v5iSbiYA/RnWjakoL6fYh5e_oetsSNuGv3cTlnNh3eUGEce71eNeLq-_zyynjQwTTWg3DTTDC9rSGvw2A3ZzXBrGDavo1sA/FBxUm5Hmi20tISAMlnoinTjp67dtgRvdnG16sXPJH0Q",
+                        "filename": "綺夢紅茶.png",
+                        "size": 1304938,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Kh8aSlvNknHEgOe5Xlcs0w/usSwLaMFc3GRFEj_Qi4OAix548ohGHeNQvyFMjjW7Wm2aRNvQCEXQO9ztVe1vn0HabpwYV5CIB5olsgDNqAwPQ/6_q-CjXIwYhDKgET0L0i7HQWiKBwF1Guu8v4hg1t9lg",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/CiygZveIMpRBLU-ivCFlfg/rwGQt7e5GxZ9Ch-NLfhJ40YWuJlh7We2PvEWjmmRLlZYhkyY--_dXZ08T5wOOqRq2jhsaU--hZMMTDB4UtEzDw/LVNfCQa_OPc6Wor2ES7YEC6bCVfc7Bgpj5z5NLxz5HM",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/q83Z52CWLuTJbOEizIZUpw/cxERVxGy2fQj2Y53WyOWZrhtnlD6l31mZT739KN641Ju_0D3UAaRiuzFqR9RvAraEC2NdRtvVL-4iPm2-jQrYQ/0ZkVylpFrtez_-RfqZzc1h0nWE5azdtzOUE-J3CcMY8",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 30,
+                "L": 35,
+                "description": "茶味濃郁，帶煙燻焦糖香氣，尾韻則有龍眼果香，多層次茶敢，如置夢境"
             }
-          }
-        ],
-        "L": 45
-      }
-    },
-    {
-      "id": "recaUPUN8evNZg4dK",
-      "createdTime": "2023-06-06T12:57:24.000Z",
-      "fields": {
-        "name": "舶來紅茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attx39dDMwRHWu3rm",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/tlafFKgeRuTfI3zNr5L-1Q/Y5xd1JWAtZPRrwrBm2ql8IapUuvBOkLhCpIvjGvcOgL73VHbk9KRtqhJBW0tFu6JksMIBjYQLu9sItTDpPDsDQ/wsl2_KoXO5w8Xu2KhW-Eb8m_pdYKYxVAO51XP0ST9ws",
-            "filename": "舶來紅茶.png",
-            "size": 1304938,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/NtALBsSl1GqZeEdLO8jnAg/NQoFroTSbaxcJRDgKm6mhMPp-1ruEwOTT6d8xrKGT24rMPLVF_TD9qusmiuuhFTRBq15r1uIv43ZXEJdp6UjTw/FkxpcxaOM5dGTsvBv76wf5boySnQLTcB8HhbTapsxB4",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/RJgi3neEX2bbCED92GBFvA/r07MpMh4AmptNBWM8_O9UHiItzSlJXoeg2fOCJiMOVUlMFl6Cnp4dx5j6kKgQQPNB8wb6sVQcjp4zlACWVtx0w/01qR1u5qXGzWL439Ahh1YZW7-THURAtyFfLAk62Une8",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/mSGCehr9qggP4_U6t3s1tQ/wifUiwaWwRoLgJSOMCAopWbPE3_U8rlGNBKVHqp9Ju3GJ2wekDgu_ldUeIn6Z0fi5HHpNbhRm53Pw3d-pE_lIg/v4MkkN-xTACv96sRY3lQLsqXQibPfZx2GMVKWO-zExU",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recYB4i07SwEiMy8X",
+            "createdTime": "2023-06-06T14:11:21.000Z",
+            "fields": {
+                "name": "復刻奶茶",
+                "category": [
+                    "傳統復刻奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "atttr03gf4HRHgOzU",
+                        "width": 914,
+                        "height": 626,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/T_eXLNiwQy-WtKKLItdYWQ/GjVIA8Er9k5_9_zfhbWm7GDyu2icQmQ5tUn3mw4lnKa3BaljKje8jAr1o7W2mhnOC3nlk2-Bt4FjRN5Ho00OHA/ryVyUBSvktLwfTg8Le3gTFECImJWrWKCv40B182KswY",
+                        "filename": "復刻厚奶茶.png",
+                        "size": 278593,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/URXz9A0XIMkTjARXCVMQUA/rQmhTsi_R3N1vjFG4nCzx8VjzB9UZ-OR2PjRCdmzRL86oAEAGkSlu5gG66cFDtoSSnc6yY2mD9Jh3K_xIzG7-w/PchY_pW1gZxXj_Of8Ex1eiv4lMiyftLkoDo6teneTMk",
+                                "width": 53,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/8HxT-m6A-6dIJQhSsg5FNw/mByE9ZONQDLd0z4v9ACQqkVj32JRUvWq2Gz9I2x7X3YE9twOv-NpfTMcayGwY3uo_eLd5hu2IzCTLBRNZKnyvg/RjRxbE22hOPPT-a_Xgarqe3H9tx2flrMjO2zDFam3UM",
+                                "width": 748,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/lfCcz35bBtamkos7cEY5vw/Q-6NrfedOIyq1nM42HgR_1B5hkZEVH6y9Phk3xrIBF5e-6M87lMW4dK1qEMwlbSTjfa2ShD3rIC02druwzC41Q/OG4hx9yPR07j8neln5sg9EJ5MMAeEQVqOzMSYUMXWZ4",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "L": 45
             }
-          }
-        ],
-        "M": 30,
-        "L": 35,
-        "description": "經典英式伯爵紅茶，有柑橘特殊香氣，尾韻則有龍眼果香，多層次茶敢，如置夢境"
-      }
-    },
-    {
-      "id": "recbxC2lYgSbwdEFx",
-      "createdTime": "2023-06-06T13:53:00.000Z",
-      "fields": {
-        "name": "鶴記芝麻糊凍鶴頂那提",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attuEOPP471IRDPKc",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/QDdMbJ_wTAXU7W3uOcfhQA/_QRjQWLbffpWJyO5isKRL5Emhw8btBoEDlfdT4hhnruV2mJenjr4QO1CHCUpjGZUOlPhVgKhhjIDjGh1_q-3vg/2hBI6oVECuQPzss11HNEvYYiz5T2I-ib7qoSMYWOz-o",
-            "filename": "鶴記芝麻糊凍鶴頂那提.png",
-            "size": 479140,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/7DosYVhenHEejVcKDUzz0Q/0zNLCtkaifieYhUdFFkdyBTBei-EoNSKRmZx51q-IhuRNhhcSZdmOA1rBio-wW02zva-acKQ8KYOr3WB9zJN8Q/cB-45WT2iUw_z85AmX61yQxj1m-JEg9rzqX_VZSZuwI",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/j4FdR1m1MbFSGi0gesmZ2w/5otPy2pVRV5iNTc-vG4AbdKTTu9LWmAeh990w0WbyAfc7g59LKQwPmFUzD1PjJ70pyFB2Uh25birT2-GLU5J0w/BTWBs677NJazcTi4XTSpGvFyW58OKC1xySpTnhVrO94",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/FF33SQBYmQTdj7_L-UryLQ/Y-NyUHxs1Iwl4s6U0XqdjpZHMACCqV42xmfLIjwhi6Z5cTxke2X__W9tjXQloqlAL2HUXnII9SycalR1gEwQ6Q/bn1fRJrhdcepSHFnfyOqt9mjuC5fJqhwygiobuKToZM",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recaUPUN8evNZg4dK",
+            "createdTime": "2023-06-06T12:57:24.000Z",
+            "fields": {
+                "name": "舶來紅茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attx39dDMwRHWu3rm",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/ipr0onlWoWUMpeKSNRsN3w/Pkqt0ljVJTSZ23W5oZEKX8EmY9Zpsjltd3JXCkiNW0PQTS2lZeDFl5L3Sua4-FsyTTCYN6a_KMVH7N1KC012RA/WqU528TfaZn1cjOSmkFDjsup8JzHxWMBlny6dyo8hvA",
+                        "filename": "舶來紅茶.png",
+                        "size": 1304938,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/vU8f6CI98-x5biMfWVQWzg/9bCyLKEunH9npk6g52JFppOQecAXJ_RV_wYiv9RIrnHVF59fjGCf-C7JKxel6CFq4oAnM8HrJWrYjscGONbASQ/GDL_ZKI5lYqv7ZTlEvYvQhole4c_CJUCXZmrb3LRUKw",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/uF0tUW1hJ8X7MKkAAGb_pQ/iRa6k6fiVAKA6Kt7UuqDhmCNyPGFwWbEck_iXgdK-cgglzuWSgtclGpIJumDM528e3-0IHHRZj9qdnrSTK08fA/GqjfMeU9JYZ8EWMhPJbnyMHFyIDe7nVJZZvbyGA9D6Y",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/0Log1v0p3jxMQwMkvafvBw/cgwQ6z4iT5dx2J7jgawP1KD1iBxiqks_FC55r15ZL_L4XeQAGvhnMiEIYoXmamTR37_orqOZpk8fJ-NA2X9odA/t_4ZquVAiLkfcIssevEO-yqNAjw0Ug0n3dLZjMkoD-c",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 30,
+                "L": 35,
+                "description": "經典英式伯爵紅茶，有柑橘特殊香氣，尾韻則有龍眼果香，多層次茶敢，如置夢境"
             }
-          }
-        ],
-        "M": 65,
-        "L": 75
-      }
-    },
-    {
-      "id": "reccyMjjakBNykZFx",
-      "createdTime": "2023-06-06T13:52:23.000Z",
-      "fields": {
-        "name": "泰式奶茶凍鶴頂那提",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attJ27dZ3AgB4GfjQ",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/kmt1s0RyHKFLMFZkvjpSdw/mO-m1bNN22mdiZPMgaZjcGAAJXA6J17TUKIzX5dXL8UjeKx5ZC28Pv5-kOU8xd-WbTUp4V08ZcZCRLqxWYWQkg/LW-A5vZJG2T0Jfyrh1GjA_GCC43z8pV_6OgApZc7hnk",
-            "filename": "泰式奶茶凍鶴頂那提.png",
-            "size": 265544,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Ur2HWrq-On8wrU39hofTeQ/0AOJ9evLQPV9k6N90CxpG78QBaNdHAOs_23oPF26Tj99yhxltiVRSBMKUPfx2UgW44an2mbZ2CS3Jey9G2-5yw/eWn9vAd-tqsN5hY6u_87zQsPMtTaLScEwd5ITu8Fh-o",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/5K71oOecCFAfoI2CsbNIgg/AdOP6vzY64QA1DqpI5Qpyq6ymPvwtrXfJUjvN6M52N5Ho06uuCOZz9K4H3eWzNnoLstUox1Vf3eA_-jmO5L0-A/ewM0Xr2ugbnIDXbS__cIfRa84RbaIige5Ma1UTsvCg4",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/ZGyKik9It6z58M6WQ5j41g/8GlTQKQ5_7wYfFx675G7l8oeDYYSWV0gBvmxob2m0bsxwkibzkImD1Xwwqn-POpAs9xGy05JgpexS_QBOWFauQ/feLN7T06phMMil0UstJKgoUtgthOgCG0PRrzTcuL1HA",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recbxC2lYgSbwdEFx",
+            "createdTime": "2023-06-06T13:53:00.000Z",
+            "fields": {
+                "name": "鶴記芝麻糊凍鶴頂那提",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attuEOPP471IRDPKc",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/O1I9Vdh4WeeGZoIQ3OqsRQ/awuOiKL6nOB5Wh6hyPyPazrJ2swZ2pILHpBLvpEaEntbyXYPTA2tH_rIya62mN76Mtg9FI53cOq8lcOgW-WVDg/ZXckGt6yYPnY_Hl_RhXh1blxLc_uXK4sYfEoS-biQRw",
+                        "filename": "鶴記芝麻糊凍鶴頂那提.png",
+                        "size": 479140,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/1GQ576GYI2oK5j1f0ASBRA/Kc_xBRRhRer2qb2WyMwKGiNsBe9mahbd8DbRh1z0p0JxSptIvRONIsosQFv-AKg61ABDXWPOClIvT58s8zf1hw/wO5yW3fuo3NA2Y_dY01pwrYr1ERpMV78_3KAVJxDOdw",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/aRmBM42aC6pz6KUslSLypg/_pIb6GrqLy17JOEtZoLKBjvoG7C1eIxH0Xs5KPuLdVQ5ucYhX8Dz7YPSOhooqSAL57167B9pP_g80GokNogbng/tSf-Eq-wJaUaPqoMrPLahl7ezeh4udlbsVfztH-XMT4",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/YoDsVanCjQgPgjdcfmpDow/VG5zN7uMiLpJHEIbBzwnjjGBSo8hGczJjM2VgdyG6zmwN8TX1oaC9Fij-BFPipOgorPgEFWUPxObBIsNJai5yw/2go5jIb3K0SSDV-kSpdtrXgaIXazRSaLdw1qIJNvC7I",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 65,
+                "L": 75
             }
-          }
-        ],
-        "M": 65,
-        "L": 75
-      }
-    },
-    {
-      "id": "receINjwkws2tEhyz",
-      "createdTime": "2023-06-06T13:00:56.000Z",
-      "fields": {
-        "name": "蘭香綠茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attyO47Zo22A9RbcD",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/KWW7q4e2rCth-cFnH2qEcg/5-DrCpq4W_1zMnZPhdkg0OzG5Oms-jGO8txyDmgClG4dkLuXJWaHtHV6MCUZGNS77oSfn7kcddaM5H2wwb2nJg/H0qWwFrKJf7tw34c44u9mPIhCqT54lo-R1crtr8ZTnU",
-            "filename": "蘭香綠茶.png",
-            "size": 1346081,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/YGX7Ur30mSGyaQ49WygEeA/hYMQMM8J9rtL_KVuN-k0Nw_29gUeIAHahtOZ-IGfDDaR0t9II49movjtjv4zIrgMdcyM8aYV7FCxS3ZGNTRtlA/y3f2O5JUSPaxMja3dNRZYenSokIDtNOxAdYEnTxytac",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/yLUVuNFLc9P0ACEAmDUSLw/O0Vjj9Wf9DI8vy5Fdb80TuDLdcCwxiHbHAuk5JpRjevhte8zpFUrwF_Bsy0e4wASJfnNLETCgUHakUAneCgrAw/re7tct-xgSlNtSHviPgyG_XY6lnB-zxvz0P6XqQ72ZE",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/7yMgRk9n9WBtvCQ80HoDaQ/2rDy_tkEs2ZLgj2Van1DK0qJrwlJYmCrLi9cLgvo7rWC-5eqf-_mjGS71pbN_nagRolHZk97j_qLtEOt_BE-OQ/hbRlxeJ0bbUSE13HSU7IfxTfl5T_LMtoztdFpaI7vGM",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "reccyMjjakBNykZFx",
+            "createdTime": "2023-06-06T13:52:23.000Z",
+            "fields": {
+                "name": "泰式奶茶凍鶴頂那提",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attJ27dZ3AgB4GfjQ",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/HaM8ivN_rmSCUFHDWmiuPw/LAKlhCy9Pz91GN_O0BnR8sPZgU98eyFWXNaYOIRUM5wvwuw6qSRclv6a-a9yTkTbSWwAiY5dYDht5r_thd9fFA/lDu-fMOOu_lQcxjHUNqV4pIHxWlNPHuafjRQmBcIGLU",
+                        "filename": "泰式奶茶凍鶴頂那提.png",
+                        "size": 265544,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/sK4IyfBQD8QsJEszcTsFGw/ouuQbfxkFsj_3IZg8g5pEdAXfu8ufElzGXRGu50uQ6XgJaJtQQpTagSYP6LUP07o5EVLRQQ7j97_RRjKO58shw/qytkmWLbXdm6XAw4rAQOGwePE83qdSUgmk_erUOWB5M",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/i-yvNyNsP9AH7BJYbHSnbg/uUpdePo2fvqwuuUBPoRPgsE8VIRwQpqje5QDTWVd6A2kWdjivgSNA6sfitas1q8A_Ygcy7grF6057bBleOX9gg/dbm3M3q_PTYXLMz0hyZHulB8PH5XFYsIx8jUVy-yWkc",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/zE_KAS5G_XdSSZvfjZAAcg/bDgusdGV3ufUIKjpnT6OjG-b7IGtWvaGYlbtVQGbX1es6PtJnQ4S4Gwrtxkv5IAe5FZxciomHLenjAiUEbD46A/zkRVjc5a-mjl0IUby93Vtt4gaKUg7zzpVcqaB8kJ0sI",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 65,
+                "L": 75
             }
-          }
-        ],
-        "M": 23,
-        "L": 30,
-        "description": "有別於普遍濃郁花香味綠茶，蘭香的香氣雖是淡雅，卻耐喝雋永，令人回味"
-      }
-    },
-    {
-      "id": "recgNT3nj19ZpvNPB",
-      "createdTime": "2023-06-06T13:53:41.000Z",
-      "fields": {
-        "name": "鶴記芝麻糊凍蕎麥那提",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "true",
-        "image": [
-          {
-            "id": "attoylrm6r6yuC4az",
-            "width": 800,
-            "height": 802,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/fz3OynUbdR1lYbQJa0mMqQ/5mVKjj1HWLgxmT8qiN4Si5mRQHXIuBOhtyu8jC38UPmewHamSfSe0z1EZtN5eAjpXosmqMIERNPFtE7jyQhgNg/3_e-DaLcNi0OSP7MzJjqG8aBlPwECSlZRA1k7lAdkKE",
-            "filename": "鶴記芝麻糊凍蕎麥那提.png",
-            "size": 109333,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/cPJzhAVeFFyECxujwYdFGg/W1T_vFKqt7bk9vFV8d-1NTg2RU2p0t-w2ZAyz0s9m98ADKmaonV7IKEVRY1jaqP2te0J7kJPQ9-OIfIU_QEm8Q/mnnrd_FR1NTiaSdrDXeoVafC930P38e__LyMsw4xo3g",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/VgF1v51oRm6sVH_D84gUkw/pKzEG6JgM4nTwqY4UOwchPBkY7qla8ujGormMM9xvTkiBMaWQfVJaBEhLm1iKLLsP7N1odRyKkrIZ_zo_c7fAQ/6-tpxKDcy8UxGypZxoYl0Kg9-pEF5b-5wrOKO3sT7oE",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/5r5JLYQsFBKXy4Er_qVhaQ/tTH5EJ_7VHDX9yMpNXaAQyG4uBNxPHso2SMJ4poWegtgLE6wfIcZSOs0O8umXWezPRuxK051fQd8DMu6wBOx-w/uHD3EXo1ZY987sO1zumUEaSD7v0XEGGpMxP7qBTz0_c",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "receINjwkws2tEhyz",
+            "createdTime": "2023-06-06T13:00:56.000Z",
+            "fields": {
+                "name": "蘭香綠茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attyO47Zo22A9RbcD",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/cQmZzLPHZzsWFKGjxFlxiQ/FB1tr6nu3cRQBoXyV1lkPcSYq6x7Y8l8_TMnmomv6CGT6aNHgNb3pq_vVo7SHeIeEtMiKBeXUQPfgXiaEC_rhA/6TGG0jUtLA0IPzoah3mMQywDwtfCU3PRZA_xe9LXewA",
+                        "filename": "蘭香綠茶.png",
+                        "size": 1346081,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Osx86ohNOmg3BiqhfE44KA/C7RVxH1OKjenLFXlMlSXs6cmnMjndgGJqKgtpbvt4PYDyge0a3fsivXRYNoLDnO3YaUCgiOg4fRhf2VcYVvAPg/wEXEUCRJfrmKbODo7SxK9R9l_V5u1qfjUjzTSgpk-Pw",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/iJF8PvU-2ESPgg0wxXyP4w/-ktqYqqxmc3lZSeBMs6ntThkel5TosS5lLmEyjigigaE9_zeGx7agIWfxO1VibY65PFwobXFTIq4JcMsfbKajg/mqTccQxP-fuOSpVuvlpf-EoojWEk3v5TqJlgGY9U74I",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/kwPptG91jaO1EG3nxcohQg/gfGy10AuUizlayEjoU3c0K7Z9fZ6zdbmM-TaFaM1InqWHtkQNFQ7vYKw4LIizVFzd3ASD0frxiKCwDf98GSJ9Q/YU1LYesGPSS4yXqzw440xaEC0oid2jR2Wl6AjVhCgPg",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 23,
+                "L": 30,
+                "description": "有別於普遍濃郁花香味綠茶，蘭香的香氣雖是淡雅，卻耐喝雋永，令人回味"
             }
-          }
-        ],
-        "M": 70,
-        "L": 80
-      }
-    },
-    {
-      "id": "rechJjUM3oyhGtIa4",
-      "createdTime": "2023-06-06T12:59:05.000Z",
-      "fields": {
-        "name": "藝伎紅茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attT5TBaBst6aBRmZ",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/u851MaAWQjv-9bPARBHlRg/lRTVLmEjMwmE01p77RFsZQmnmtLzfoFR8xpoWv0x9x8PIA1QPCN5x_tGxFEWwLOVJFIZspBAhDIqS3HVuF7hrQ/ZHWwIiyVpx5oqxVfvFXdxIhjm9S00f6P0E_Ex-xO7a8",
-            "filename": "藝伎紅茶.png",
-            "size": 1304938,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/18x5xwQlHZzU07CRRSlJJA/CQhyk212eEM9F05tjZ39ytw0osk4zdbQL_onGdmI_HzIvklY7MM9VmjHixiEU0gw5_QC8w_bBPrfEITcyI80-g/5rXSRmUM3l_G-WAK5rIQEYNfxdNeK7rKUktOWQfVaP8",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/cFHdFCTG_pzoWi6ASlozcA/Cq0dilyZ0gQu_xeCZ-04dvYpIyiJAMMJcAjLo0q1jXP7MPsLEoTRBmSTBB7QoinQIwgXy9ZZRq-M9bSiU6ymBg/Ve5kD9KIQDgFpAiGitxGtMNL_CcMQSZf_pBzu8QD2sY",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/UZIejv-WN68gmtDKJdQSyQ/eVPwvYeqLqc3bWvn-Qayeh-AWcP8LRN6Gkg8OdMJXGY_NFG2qdWwnHXSJR5HFB9nPw4M1WPfFt6UcafGj3Vkfw/Infddk3GzRUvtUFqvP5be8u6bfisrKZHYLEy2mVvF7A",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recgNT3nj19ZpvNPB",
+            "createdTime": "2023-06-06T13:53:41.000Z",
+            "fields": {
+                "name": "鶴記芝麻糊凍蕎麥那提",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "true",
+                "image": [
+                    {
+                        "id": "attoylrm6r6yuC4az",
+                        "width": 800,
+                        "height": 802,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/QxAf-mprW5oHL-ecyFQ7rg/bE-3jTiLI7sT7NSz2X3ZueuZfWfBC001wgRxH_4f4kE8DDaWgPkzA98QLdD7S4FGdn-UtdblT3XxqS96ZZmDNw/YqOay4NRbfVv-RFUVtNKyhdxHgmeGkWkLwyMcU62ib8",
+                        "filename": "鶴記芝麻糊凍蕎麥那提.png",
+                        "size": 109333,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/NuBZ8wgzKZGiT8cWsycseQ/ZBjEd_z9s2PyZEM2LfHilX4LaQrXsM94P9yiiNwIMVptgiM-OsMgyZ9CkHh4kllJS7dTwkzuXlyP6aGd5yX9gw/FMTtjSMcydKjaKBCVZ0usA1LNqahgF3xlmwZ7a3Ai6s",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/8sR8QRuGqWzEIAZl6cFftw/uAMmsfLMOtDII0f9LiKYv5szNUS0SnYlfgn4rKNqm8XrOh6xEWWz4lcFzHPWw_um15rF6TDMptpuQF1VnZA-fw/ZIXYU5UPN6-LjEybGSkakD53RCrEOuXgQ82K0sD8R_I",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/IHyC63AA3ylzJ9Y7MAQ_tw/Gyn6OCfMD_4ngKoKYVepT_uLmfeTBsjRWu1m5cBqIQCdiMtxR4pKLKdnPFP-BDwTPsPqNrj1vX7VIaCmgFc_NA/ZR399Po_T-sakSCvaO4dXXLcoL_yev49C7zMADbP-GI",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 70,
+                "L": 80
             }
-          }
-        ],
-        "M": 35,
-        "L": 40,
-        "description": "以FOP等級錫蘭紅茶及條形印度紅茶作為底蘊，茶中略帶淡雅水蜜桃果香"
-      }
-    },
-    {
-      "id": "rechlwkItbqo4A1oP",
-      "createdTime": "2023-06-06T14:09:06.000Z",
-      "fields": {
-        "name": "883蕎麥茶王",
-        "category": [
-          "無咖啡因，老少咸宜"
-        ],
-        "noCaffeine": "true",
-        "image": [
-          {
-            "id": "attsDcxpWYjkmThU9",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/bm3rrAieeidcCPANvRraXQ/9cHgysuWR2xy9WhBDcv7HqfW6p-rN6-IWrJh23t9Mu0AO8xO1LRqge-FKLvKM26aCYn-3v8KflxFWjy1aeEO9A/mTw0w35-R5nDd_T2u-CIQ9FvAEd0jWXytI_41CSQK6w",
-            "filename": "883蕎麥茶王.png",
-            "size": 567300,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/N5wNLB3yya9-RBU1tFFj-w/AvA1S4BBnuwNyWpaXqm4hQGbsKna-Gyr1sNrrZHnVPBnu3eED1bR9W0Wo2tS7DPhJC5vLtZnciIs1maOcNekrg/zUCq_d0Gcfh6DDEteppy6zV0D5yMdJ7xtFCUBJJ_pHQ",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/J68n9kRCB9ElElYQWZkiig/vxYaaG1FvmmazImYczTZCDB-ZbNMORPBowHvk3rYWLReBwqGRsw91lxHRYEhZ6PpogZ1LYaQPGqv6-uMqEaWjg/tVGbmR4Ptsgt-YyM4bJbRR58Bah7f7pc7-o7p7jusZI",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/iSToMJiuAxCWCcHmFyHauw/Vq2535P81YA0RSUcR8V43dUMTLNz1NYvuXRMKQMp1wS02FxB1UgRR3DTnhiD2THjtIMVZ5_ZlX52_00wSFuBDA/Lcn-Wq0czj5CVMmZTre-XFM9PjHRSHnPKB0qUNr4mXY",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rechJjUM3oyhGtIa4",
+            "createdTime": "2023-06-06T12:59:05.000Z",
+            "fields": {
+                "name": "藝伎紅茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attT5TBaBst6aBRmZ",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/902TdL5s85_GYrNLV2fovA/oVPA0mOc7Am1a86qKMm5MBChoz6zx10XxW-zq807TaK-ZeA9tAo8bEOI0CxGIFr9unpW4LS3wLhjNPBQUr193A/BKf2CN_9QmwjUogTUCCyeBwPoQJyBZNEc5NhwNzDcgU",
+                        "filename": "藝伎紅茶.png",
+                        "size": 1304938,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/OCddhovOFLN-CBHa5n63Jw/ZfPZFXeEPChg5mwpN9JOovLOnWCEFoyBXKZFUzSUtdZ2abn-eRPsp6MmPo0WLwtgTaecU19rd5Zk6mkeLgXpfA/fp6M49Ub-awO7wtYBXSrc-X5f5YjDgOWz5JjrbSXGp4",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/RjSdjsuQCtYxhmAZfR7nkg/rti2fBE0ssM4j5EcJhSoPXEBNS9X1hPTtjdLXa6h4DTl1XOQqdpS7avqAn_Rx84pfVcng7iOr_BePu072vFZRQ/HFVmzjQV6-kintNZXXd1UdGXJ5CuQcywOVhYUT5X8Xw",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/mKM921gpfmPi1ckvl9Zc-w/301-JfdomjGb7BRjj84VsGwW0Cj2Yc11csSx0isvgIH7Wf4w5FGyft2BL8qQS3YYnjNQEWoXEA1wur1gbqk4vw/gEsIVDaR9103djQuEy-Sak56GDIovg9cmROTBIc3jG4",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 35,
+                "L": 40,
+                "description": "以FOP等級錫蘭紅茶及條形印度紅茶作為底蘊，茶中略帶淡雅水蜜桃果香"
             }
-          }
-        ],
-        "M": 35,
-        "L": 40
-      }
-    },
-    {
-      "id": "reckd4Bcmlz6K11ts",
-      "createdTime": "2023-06-06T12:06:57.000Z",
-      "fields": {
-        "name": "鶴頂紅茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "att8CfOVZtbIF0x2A",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/I9FRp6iBJwQdRRt8KP7mfA/VjYaTUPHBhRDUPzVpiKjMU7SGWEMvDlQWlQFZmdRPPexRA-7tlj9um-eTs0Bwt70vmOjL7-rpVr7deKIqyMFlw/rMmJ_PTpjuwejpKlgH04f-YHZTbEQcpixDfk1JoJHt8",
-            "filename": "綺夢紅茶.png",
-            "size": 1304938,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/xUXukFcefOsiTpIs09jmbg/zOcHG5txkMSinF7tpcrAz0nKerVkAKCNWR72VX9rKfYi_TEUQP0oNH2KlSQ1qs40-ueEZIRS7wlGeHijPQ2g-Q/MxA8WOKeZJqLNBvsHSAm7NQStvhLILUAVvLoXd2qHZw",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/vZWCFHiL16K9gn8w4yCXtQ/tU5jFXC3qgbCuTbQLaMnlvUMuiOHLV6cRMejA31DZMJ1yswYDCLotyztYcXKz5EFR0w9JnQaCkVVaZXQTaU-ww/UdTng3crRiZW1sweNrJqTL9e_udpSUEc9j5YbjHjyCg",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Wu7x6Y02hcuCpL3KsRokjQ/olt4RuKwe5s7cIQwuAA0ghwhi7eL1WpG_JGoQWe0gNpFleMPY95rPP9EhYOG-nMidhfEzCBeIF4VVjKAbn4-2g/BkOERgqnKCWfFxEsPfKiuN5oEIBoz_BFsbN7W2kVJhY",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "rechlwkItbqo4A1oP",
+            "createdTime": "2023-06-06T14:09:06.000Z",
+            "fields": {
+                "name": "883蕎麥茶王",
+                "category": [
+                    "無咖啡因，老少咸宜"
+                ],
+                "noCaffeine": "true",
+                "image": [
+                    {
+                        "id": "attsDcxpWYjkmThU9",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/t26XZVxLarGx5EM8oNxKsA/kdTnPNAdCeB3polIikASVPhdwdoTKBUx03vTXyUVnms62J7vRwSgz9AaauoI6zy7WSwbdl5pF5aMr2bzXjXYlA/_Xbdu0NHyi3cZM7XvbfwMEsczbzQ1VX3iwdTNMOZOzQ",
+                        "filename": "883蕎麥茶王.png",
+                        "size": 567300,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/IdSFzjHY5yZrddXdkxTFiw/-ZlHlnTFJSJY5KPte_1y6ZewGV_IJuoj7xXQI_jrnmZa3GxP4ySVmTUeCmHHSxDo9FurF3iW8ALqlfnVvvg9CA/fjBNr4FmU3dnswWc3IfUVjiwQ_HsUi5xYqsPK21RobU",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/rjU8Kl-zID8QVmz3aof5Dw/osba34ZwHTWklf_yVtjzi9mQcRbm-VZYcIacYwkhvm6mUFckTu0PYy0Jm5h7OvpuIip43xjJ_tWOg474D4DgGQ/J5ujjPRQ55Zu2uIE6z2U30wjAFHY4RB-smvuXl3vVaE",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/VBk1rkoRAwqWGNTR8CHrbQ/Ry1fiTJ_VN_ZKdECVzec4Y5Zu6BVqVS-WHaIwrmuPGBPAl69fwWpoSqKMKclm5tFiZlrt2GdIqe_b7mWMQx-GQ/mcBS8MQLTCPq4y5w4LoajVB3zAyL9_BjHHBw5eHMzYg",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 35,
+                "L": 40
             }
-          }
-        ],
-        "M": 30,
-        "L": 35,
-        "options": [
-          "濃口",
-          "順口"
-        ],
-        "description": "茶味柔順不澀，初入口袋熟果香味，後未有芽尖的甜感，句去油解膩效用"
-      }
-    },
-    {
-      "id": "reclIAFBBE6CMq7zP",
-      "createdTime": "2023-06-06T14:00:58.000Z",
-      "fields": {
-        "name": "舶來那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "att7u4Klut7YeKOBX",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Exk9UvRazzGl86cQ7Ig8hQ/8L3Uswszy1-ZwF8DjP-Na-W57gLQ4J40RLf5qGT8_sY4G3ssbrfUOKbnu_CztltrNRMxDwB-9YFz0SDXfkHPtw/BKUh8n94cDlewR07hrPDajFWpJ5pgRI3U7VOeGbtPv4",
-            "filename": "舶來那堤.png",
-            "size": 1360225,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/pJrjNqSGiJ70_gn5w0Mf3Q/EFa95aWW_TgnS7_T_we6-j9R_BRq3zyWIrBMqwhfo1paOJZLrAnGoFcL8olqCypALGO-H0ihexSN8uYdGemGdA/mLpxfS38F8mkuqnHJ4VXzGPLtwLGL5Z50QE608FAscI",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/d5IPj6bQSAlPqX88iceJZg/zu2RRxGxbaoQfOm6omRSHvpsq6o4OpPGsrNmouaIBusyRghouyZrNX1pouzjfi3KamNw0LQ2N_nkTpai_qtXEg/jIZexFg1-MOLxNIkOOZXYTynyMbxI5iSJ7TpE0Km37Q",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/42Lg-7SbpbMRjM1kuwlsww/rLuSyDQZQBS9iCmqcKj6EtTPdRa_1YM3_SAYsbDaEA9CxuhUzu60DOOnO4MAnQAE_Dv3tdTbklMVaxOjJQp3mw/uGMHjlggIuD05KpjFnA25OOzHu1lGah1lDAO54aV3Dk",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "reckd4Bcmlz6K11ts",
+            "createdTime": "2023-06-06T12:06:57.000Z",
+            "fields": {
+                "name": "鶴頂紅茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "att8CfOVZtbIF0x2A",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/e7xP6-mW04Szko8eu2khtw/JBphcVKNc-UZjz8g5sQeNUyEasEC850R8W8yOUfY_CpN_MuxctlDeUAWPuQpRrCuaK-ZhwbBzB--48bZeQPQVg/VuaFsCp8W_o_4Bhd_X0Hr_byKWkH9fQaIuB3Jh3YC7w",
+                        "filename": "綺夢紅茶.png",
+                        "size": 1304938,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/7QWpzwshnvZDs7GHnshszA/SvHR8grXhsQHjBjrgejXZhnvP-mRE7kSN9VJXTx2c4zGTqqJZkemtc6-xSM1j0gWo51zK1tM1Pz-5R9Zoh-NuQ/86t7B4itvS5j6C1AorTZyniaqTwe2gP0Sf9bx_cdpxE",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/10SRN5qAukVoQAh_HvaaZA/zoahbO30WT5A9Ve7xB1wUI1h89Z5vA_dH_Zh5aOwANJZY3oqkvfUWLzaALMAMuj6ZPBFGme3H2mSktNxFIqg6Q/1ksn1iHw7gti-IE8-Dvq8sTnuqQUTyhSYFUHP24k4b8",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/JwwElYbVbOt2j7AnQ16RdQ/SMv82B-k6aXQs8YW_ttnAlIj57y9r8MShJvhBVafMmQr4C0xN3XNU-tE5YAQLCylokkYsVSnu5ZH-q5GnbTRqw/59ewlUMlXuXAcC1TAOlHcOOgy9uzW1qSJL8z1D1OogI",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 30,
+                "L": 35,
+                "options": [
+                    "濃口",
+                    "順口"
+                ],
+                "description": "茶味柔順不澀，初入口袋熟果香味，後未有芽尖的甜感，句去油解膩效用"
             }
-          }
-        ],
-        "M": 50,
-        "L": 60
-      }
-    },
-    {
-      "id": "reclQycCfBsCfFD6Z",
-      "createdTime": "2023-06-06T14:09:21.000Z",
-      "fields": {
-        "name": "883蕎麥茶王杏仁凍",
-        "category": [
-          "無咖啡因，老少咸宜"
-        ],
-        "noCaffeine": "true",
-        "M": 50,
-        "L": 55
-      }
-    },
-    {
-      "id": "reclxysBeg4wuy92q",
-      "createdTime": "2023-06-06T14:15:25.000Z",
-      "fields": {}
-    },
-    {
-      "id": "recm5I5TSedNdLJAW",
-      "createdTime": "2023-06-06T13:10:41.000Z",
-      "fields": {
-        "name": "桂香烏龍茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "atts5JALi4NeYkKah",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/H4ELpq3XsGPcu74uW261fQ/kWdug6YSPvcLMh2_-VvRo-lhiu-OgKsLc64Y14LPpq7qQks68VPcE9BZ1M4FoeJDbb7ZvmXa7ht6xKAkF05Xdg/uCb1zi9mCAmaO9KHzzSBZsfBphb_BxL2R6DkUZr3UX0",
-            "filename": "桂香烏龍茶.png",
-            "size": 1350812,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/ug-36HnsRlk0dC2Dh9pRbQ/f4NpDYcfNcA5t6G40J9vCIZ89DuCC2ni23oMRf3Mvgrj22j4NhbeS60FcxMzpnBY57ZNkrKZa5eRoKYUrqUlZw/oD2Rke5imYYdutFR3HsrRI8qIqduK58odsHuse-Txp8",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Z5kPkHgu6p3BOCMecAzViw/MzUFDRhNk5qibVmvCIklcqc_z4F_Fz8Ji1Q9djbX9shFL9M8DWY6QSQwPkqi8f0_4L7L8PUmzMUxtDrzCog3kQ/NpGhWx5vxiIrlKd5duk7xkasQ9L-htOl5Hq3aapOJfs",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/REW8K2DD4jwDGTxFo7iX6Q/izQ8tfOIJo6OLYzR-2_VwGsnzx0BJZYuxPFIRvtXEvQP7Q2a6gF2goxGjPtzW2xhgmDGcGCHHwzNawUi_czJng/QSGMnOyTJFi3JP02IUszrm54YJvs5oNY961S-jYU2xY",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "reclIAFBBE6CMq7zP",
+            "createdTime": "2023-06-06T14:00:58.000Z",
+            "fields": {
+                "name": "舶來那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "att7u4Klut7YeKOBX",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/VLg4oswsr5ihzEptaCIbTw/0Z0h8ak5VLX9eay7FphW6zkNL0RJsEz6G7C4DVfKGF2xGKbhzrkNwQAdX3ksAfwDDeGFsYDjU-S5h5Eo0UlluQ/0jRrJI0lxM9V01W5ID2NStPJX_CRl1FbCgbH4iOzf1M",
+                        "filename": "舶來那堤.png",
+                        "size": 1360225,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/9u7uNuElOQ6zOnEOHvuXog/kbLPll-AFfpSVj_fC8ZpFJHca8SA80-Nk-S3wkMSgqPQTor-9vAn-ZTSn5zWaCz-mHyQTDKMGWad4l3jCRkZkQ/bkDnVGSHFbPzkdHdPjjp80Pkr2t8W4iraEC4Xxatw1U",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/7TqlRjFGFuj475G417vTgw/CHbaN6TBhVx57t5cvNml4OM7qJ3m2p37K2VMuyyBWUqJCmSMZvL-I3CD67vGiaVxv6VLWFAMEaA9y6r1svxlrg/GwqyTjzRcjX6LqAi1yXC9nAysarE5g3RiZqaZ9g4HPM",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/tkVLyvmInc__YwEHShMTaA/Kd1dhP3zwjzgan-QWC2ngkfJkchjRFmr_TT3hrV6K11bu81Sv7RZxwE_180l6-2vXCmyrP5Pi7ewVxmXDd0mfQ/Slxk-5eCE8UoBMCbxT3X9dOwLr6IP6dNCxKxCNTTIzs",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60
             }
-          }
-        ],
-        "M": 30,
-        "L": 35,
-        "description": "溫潤甘美的烏龍質地與氤氳動人的桂花香氣。桂花成分生津健胃，助消化"
-      }
-    },
-    {
-      "id": "recpQzkSJ042AJsYa",
-      "createdTime": "2023-06-06T13:48:51.000Z",
-      "fields": {
-        "name": "鶴記鴛鴦凍奶茶",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attxLFYQoxI1ygIrD",
-            "width": 800,
-            "height": 802,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/k3KARImRfpRabi-AoeXLCA/YmDa8JiRs59zvMjYEr9NA5cwnUqUP2RnE7xSHGvzKztlpRfGEpB9QR7vuaouDZhMUp2323r3J8cS0e-_bcbpJQ/RVNCRKKLv0LwbS5s1Wd1_JpKrZMosDd5W0T5jbczv9Y",
-            "filename": "鶴記鴛鴦凍奶茶.png",
-            "size": 105323,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/_L073NdyeYvbcNdM3r45mg/7_1qjABwV8T2QP4TOn4SNo1-NMlvZiOujsJOIJQ-AVLsOvuEefAJ6ap6zbygF0AwPN0XSx0m2pn5nMIJkrXC5A/PVUqedHktNa0CdSZKHjnYCWxGyGPDj3nXsftXSnNYQY",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/tqobtlk-uABkMZvTkv7iTw/Q8mu3t_57in4IkQiDmlGulG2aEYEoZ2_w1tVP7kC36XdP6cUSOgDUaqnbN1mk_k8Al2xsW22GCdxGC1YgWfpaA/e7DsFudljWsBTbK5e3SV5QYrIVtgBpBvmBo-ocgdPMo",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/jivIc2nqHaaRfPdp8zr0-Q/iVxL9UMPjZ42nv26Lhnl4uaycFPlKVJZIKLXLaVpy3n2rdn2KJeA0S3glCRY6muA0mrAWG217jSoYK_rdR02WA/9rQQNMbt4B524oUJjbQPjlir_tvf0KblQfN_XCkJeUU",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "reclQycCfBsCfFD6Z",
+            "createdTime": "2023-06-06T14:09:21.000Z",
+            "fields": {
+                "name": "883蕎麥茶王杏仁凍",
+                "category": [
+                    "無咖啡因，老少咸宜"
+                ],
+                "noCaffeine": "true",
+                "M": 50,
+                "L": 55
             }
-          }
-        ],
-        "M": 50,
-        "L": 60,
-        "options": [
-          "杏仁凍",
-          "芝麻糊凍",
-          "杏仁凍＋芝麻糊凍"
-        ]
-      }
-    },
-    {
-      "id": "recphKnCj05pJ9uYJ",
-      "createdTime": "2023-06-06T13:50:48.000Z",
-      "fields": {
-        "name": "桂香烏龍茶凍綺夢那提",
-        "category": [
-          "鶴記凍飲，信心出品"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attodug2CXbazR3wZ",
-            "width": 972,
-            "height": 1108,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/7OBGAmhWNB9uqdbvHTAH0w/huRJxan-DX-nzg8AT9PuZQV00wVmtjzyefarNwoM4_85bPR00SMwkr8fB7h5kg_6GCjdfr0YYvzTBqnatKgQUA/5-9-eU8DgiuhiWFsyZb4nIR-_3wKji1nZ4Ort6xE3Lo",
-            "filename": "桂花烏龍凍綺夢那堤.png",
-            "size": 362244,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/3gSwMpL3R8OIEyxjyUSwNQ/diZz97DtTEe7xSu3dNT4qsiLYee6ZRiyEJGed7xmXdq0Zqkqs7oVbb9p0UOBosa7T0BqKLRjOE5Ckrte89MmKg/r39W_FpLAxkw2c_JmAls48K0KxU8glh4e88S89A6GhY",
-                "width": 32,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/LNcuZ_xBbJi5AJyo1O3AgQ/KXRGGgfAnJOeuSNMWFbQzKShl33CneTf-mrwBUHyBr2z-M2Ct4NVl10-UGge_xsSL1So0mgz76Zk6dEFFfNpsA/BqCGKdZ7RNrkw0LLiBv10abM9zY7w_TNhjobt431Scc",
-                "width": 512,
-                "height": 584
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/iKcQXaSBH3GDCToVqDztuw/4h8MhfiYPapFVpeEO_BR7P8DGkUH3sv2es_WSVl__PjJwp7DGqP3fn_9v5u2j4eGRSOnQNY1vK5NXpyr6eLO-Q/O03dbmECTcoqI7jE73A5T_TTif7f27M9PsmZ_FV9moA",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recm5I5TSedNdLJAW",
+            "createdTime": "2023-06-06T13:10:41.000Z",
+            "fields": {
+                "name": "桂香烏龍茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "atts5JALi4NeYkKah",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/UtKF_sr69oaarVzCiak7nw/WnzVC3AikK1izyEv1G45qXjqOipQpe5ifwndPFjqHv6AUOYRVwdYh2djrKsM63DOy9ECCWRFEs_eeAU98mP0zA/jUPdoZWaBFGeR6n9D7zciwW9kaaxWUcle-NIqiwwo2A",
+                        "filename": "桂香烏龍茶.png",
+                        "size": 1350812,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/GoIrKjJ3cv0GnrfbnvVAHQ/kC1m_ZO4XjeWwZenb6ZVHHDNC1Ph4Yo5hBHQt40BiOY-5EJdFzPuPuvLjUc_-L7F2u8GycBU3NqNzz5tqDjV3w/cirowjRoaDtGGjvGYCOLwdmSvHED7kC3JCEQmq5tiSw",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/G1mpmU3esLOR5VK_QTx8mQ/f2-0bjJUT-e_LwVGeAiP-m8l31zgIVmJmk2WumWEW8w35eVsZy3x0N0CHPE-oIFmF3dYCr28kiaB8lEU80flJQ/lTYUl2DIf32XNCQ-r8Jy4mqKPYn24Ram4_OaHT5oKWk",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/C0UirdCI3dJDtoK7gtdjyg/kNHfvC_H-YFRAgurBnT9F3iSIvKvrxlbx6SeKAfMSYeU8KSees9OBw5XcTmB9Ylpp_XSIWGA-xYgHEcaVtDG5Q/yaef-vsB38k_Js6qYtNl2s4Q8jBhu9keTmZ88g28bJc",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 30,
+                "L": 35,
+                "description": "溫潤甘美的烏龍質地與氤氳動人的桂花香氣。桂花成分生津健胃，助消化"
             }
-          }
-        ],
-        "M": 60,
-        "L": 70
-      }
-    },
-    {
-      "id": "recpnkKYj5Ot6zUZR",
-      "createdTime": "2023-06-06T14:01:46.000Z",
-      "fields": {
-        "name": "神濃氏那提",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attfzDmVZ47ZKrKNF",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/Lkn9SHRbH0P0tGanB8WTpA/wo_vUzEFH3ohyC_3V7JrZ0sEvWOc44p4pVPkTJKE_L_lgNdxlNNL7vczgtBu76q-S3kF71VZ-F26YeaIECcqAg/gk2xeaNtks-3J05NcNEDpmb6uI7k2DdGfXBfxCwTTA4",
-            "filename": "神濃氏那堤.png",
-            "size": 1274657,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/znsExsiuM6fiXbMovvbIxA/otr9U62ZWQCDXhl0mbadrfHZ_fQa5CZZFy-4lMOZ-i8jQcuyE6KCi7eshA9XiHa2Pm9UDk8iiLcz9uTwpYT3sg/vWiASiwB3ObZc5hvqMDTnTefJ6jiOSwAo6SZPCw-T50",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/nCePk4NNHc83lXCTeziaAA/XQ9Z-__W6nSUw6W2XpoLCHpU9OXI_uWTZMN6eMLT0xKbfoeC08zIH_34DrNIZy8NP1GdHpxEdSfgSjMYwyyudQ/xoU__JdeGQ0mZseW1GbLsLRPh7HI-fvjjxHTlMrQpyM",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/YJh-a9eb_XFAjwPkkqN_uw/K3NJboLf4uv5FcMrfeo0zgpn58Q5IKXOhK-PJk_xwdw_ALkF5x1vhthGQ47JpTysTCLyc2PD5aXV5rkDi1Gqlg/sbZayboXxsDXuoutsT-UYRUveXczE6OGcZ5Kux3tB_o",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recpQzkSJ042AJsYa",
+            "createdTime": "2023-06-06T13:48:51.000Z",
+            "fields": {
+                "name": "鶴記鴛鴦凍奶茶",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attxLFYQoxI1ygIrD",
+                        "width": 800,
+                        "height": 802,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/1Gcj3JgU5OfEDXKmr6-avg/TzB72Ufgha98XfZzm6-aPwiAK8Auzbky5Jgw7b1xzI5u1QOrXGPP459Qu_CqH6mpyXQpiuLPqZXfvXefQm8srQ/EQvpjrlZvzdE_GxGqaXSd1-iXb0xmmFUjx0KzyeRff8",
+                        "filename": "鶴記鴛鴦凍奶茶.png",
+                        "size": 105323,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/2EsBqHGmfw9l4CtJc83r2w/Rq73W9JoiOzyt3TrVGvH-hmjC9N2yJViMAMgLUHgPYd5gJxUl40OD6wg2Lsv_o5-ew1MN8fZyzzHB24E6JJN2Q/hvTCVYEPwEYLMto_R7-50rsdGf99MrdjU24NRBEyuSg",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/2RWMkOMEcRWzZwvGKojrTA/iatMa5G0UuB-pEZgDg12faifoHRbvN29ltppfYUQVr4VJodY_yQwkWIO8cFfzUEtyiNwJCFcqp4Z98XuKFSPlA/lSQA156lUlngdgXw-f2KHM1aEYqH6KCevlEMpwJ87ak",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/SRZsyg61-aJ6-ZPes4U9Gg/qUiEYj8nvQSUniEv3QbZ-bPpaPg5TR-A57dOT27yjKtOiCWOXdptKyQHTy7vuHI9nYy2zgNxYc_q0VKeMAn6Pg/IAnZ8pYm658e4SArvVxGtHONfQVqtvLrUlBBWCBNrO0",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 50,
+                "L": 60,
+                "options": [
+                    "杏仁凍",
+                    "芝麻糊凍",
+                    "杏仁凍＋芝麻糊凍"
+                ]
             }
-          }
-        ],
-        "M": 60,
-        "description": "更濃的綺夢紅茶，加上更濃的舶來紅茶，成就這杯古今中外茶香最濃的鮮奶茶。僅提供少冰"
-      }
-    },
-    {
-      "id": "recsJgphEcPbTn5Oq",
-      "createdTime": "2023-06-06T14:13:30.000Z",
-      "fields": {
-        "name": "荔枝鶴頂紅茶",
-        "category": [
-          "秘製鮮果茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attlbpdRtV9poyrTR",
-            "width": 972,
-            "height": 1108,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/2DqAPJEwQMOc_gCg2bIVFQ/Pc2oqiBy3YGDc7CClmAguxrKcYBcFx-RZS7AK4_j2tt4gUZJLusV7AepVNJpx8I-mbjRgLU9kZqGXtKKsnTz2A/GUYSgp2_XExgAXRJAoeheocF_D0mpRv7XpFldo40Yp8",
-            "filename": "荔枝鶴頂紅茶.png",
-            "size": 1451075,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/okEP0itJVl4S5QuI1IBrww/S2TqN85kze-1qO1raZ1G2qEOIKg2llFPgbFwJ7kr54ZvxJkLYW_p4-m9VqZaZ20ntOHyzbEYaMOvLe4LaoK2Ow/w88963jUlmxax03TG8z5B7YLzRQ616aNCznUkyTY7Xc",
-                "width": 32,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/n86EWNOqpzu-XWnaNIJKgw/mHLRZRm-0XyaZTQA8CTCRT9DVFdchFbgvPYMtWY-zNXiETzwbyXNettvd_AZMcoYE6jTveLM_ze9nv39I-Wo6Q/n2biJKfAYdy4F7HzQAArrDWbtrZzhlO7Dc2xjxfPYIc",
-                "width": 512,
-                "height": 584
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/rHNUxFCcMX-qEp8B9-MzNw/M6aOIu4RCrl2SRB5C-R1PF4IU4BDgcS8hRzQoYCktaddixR6OK53wESABAXBcDfodyW7Vc1NYtRCRcCnJ9WUdw/kMEF9PMXojz92sXray7g1pDI5BvmxMyIwv-y1aHi9rg",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recphKnCj05pJ9uYJ",
+            "createdTime": "2023-06-06T13:50:48.000Z",
+            "fields": {
+                "name": "桂香烏龍茶凍綺夢那提",
+                "category": [
+                    "鶴記凍飲，信心出品"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attodug2CXbazR3wZ",
+                        "width": 972,
+                        "height": 1108,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/h16PweQ3TTKXiK2KKckS3Q/SbW9R1CM6yuJakXUsHDdMNgjsjFlHJEOskL4cZ_S97yEkPz_x9u6c8HsfkpQxw3iVdX3_77pFakgrGNaQfaWyA/ju5ncte9GPVRl2FiEpm_mCMWiQ0rRp4NUaTbgniFfe0",
+                        "filename": "桂花烏龍凍綺夢那堤.png",
+                        "size": 362244,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/KDVEfz9HGAWGyTLmVmY1mQ/8kW1Rm22t4ju4ZQDS3GgZM6RLuGNGn_uRKzaPMxyrUe2Nk6AMBnCI-lEQQEROzX1gdgOPD5_jTz2c4_EU-rFtw/j59JYqMUmhUxKxg1fAOPoAejTc3N_uNmaYRQVrpIfBs",
+                                "width": 32,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/_ZiG5D8QFpMr5fdo7jL--A/TCpmtgsGFPH91WSYX8lR4ktuv2NPCiZvaXzlVTD4aLl4mRy96jR18BSUUTCLQqOg-EDUfg3c5xkFWVHjEnBpZA/oI_KT308WelCqgBiTpAyYW-1gwdovVHIVgSkAVo8iTs",
+                                "width": 512,
+                                "height": 584
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/xLclxopfJkULoGh5Bl6Ahw/0GRHFnysxFDw_q0550iY4OjWiNFS3a9DPtQB6SE1EwJX5MthWMHr7P726MQVb9iYyMqwxXVPKQ9QjbI7QdtRyg/F5VlPmgMwcD0jMdI2kKJWdzTEqTIicV6wnC92NIjJjI",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 60,
+                "L": 70
             }
-          }
-        ],
-        "M": 55,
-        "L": 65,
-        "description": "皇家農場荔枝原汁搭配鶴頂紅茶，並加入養顏聖品-蘆薈，有口感又新鮮"
-      }
-    },
-    {
-      "id": "recvHtQ91w0b88nXY",
-      "createdTime": "2023-06-06T13:38:06.000Z",
-      "fields": {
-        "name": "金萱青茶",
-        "category": [
-          "私藏古法茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attS2jmlgl3OHmN5V",
-            "width": 960,
-            "height": 962,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/GMqlgqrZXQpBmaQGSxc4Kg/OVOfXFOy3KZCxdMNZNZ5KbfdhpukWUXpANDupAMmNLgoBZ75N4w-kWFQAFzlIduqTQpxGjJaXfSOpyYGNAelqQ/g0BqKssQQ--37IGhzgKlcnpi0u7thfgMxebjrNk6ocE",
-            "filename": "金萱青茶.png",
-            "size": 1346081,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/9fBK3DXp2hopDDh-aT_IoA/vAfeHPPJ7sXjKjNuBrykuBj8gUt0PyF28LgV1G6Q9qsPrkjE7Q9bOFGg4pmzGuWTfGSGVK507dPqzW0YUAl3Iw/9ij9b7YZxw1WrbzWv5McWdPqlYvWwsZbDfwp9DDKASg",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/DiN3f4fXfpqK8lB7-Boyhg/hXzsZ_ULzNsHyl2alT3ZG0g3bKh51J3So6ECEv16rX8c8dpFexIWdepmsiUkbZKi66LiIaCLHAdXXATPiVTt1Q/KYir_kdNpW-D6YA4XPne18J2C1YX0O7igTEXpnjto_4",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/x5KEShC8npxnJ_9nyyOr_w/sgRu35XFb7HaZNTK7RMyhsZ7NDGPemkkV1dFxdto40sLnhwlyM9wyAfIkIssxoZ7VnSNQrd_cR9j60BRRJFVQQ/7TsNaO7eE7TaTNPFXYXtZPwvaX7lCxlplaYusjNGWCQ",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recpnkKYj5Ot6zUZR",
+            "createdTime": "2023-06-06T14:01:46.000Z",
+            "fields": {
+                "name": "神濃氏那提",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attfzDmVZ47ZKrKNF",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Mrpb_aj-jvudbf_wzRuIWA/e3BdanuElXs9Nb0PDc5BEq6mqC1RnMNgPCBelanyAtbXyq9TKX-kENWvTwRZxaN-sr93-qyHGxswsaB7GUX5EA/-Riz_lFdFW0FoZ-n55vV2tCf4pHkaGpCI-vfyAp4VmI",
+                        "filename": "神濃氏那堤.png",
+                        "size": 1274657,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Qcn2dD9Df5S81RI2127XdQ/PDVW02NN6ZV9BAzO5mBQSk1Rlc3Z9i17Jg6jjE_Kpz1sK_Nm2XV01tSFKAWPWmuFU9wXftR-PquLCCd7ALucWw/KIpra5-NJazByQhU6Co_uYL93UnEW1nLu5_mdHL1XFs",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/b_EHIGkeDgeO1jd8TKwEKQ/HHSkjV0G6vUSTSz3yrDTjYLmGSDZjthF9ybg8Ry8gw7K5vNgy1EF1XUEvkW2S3ZLze1RkknsH1cURhO4jgO1_Q/E2P5sgkBdlSbV6sd2CBGAeS_n9PHQBOt2rt7Oykerhc",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/CQDNeYkr2Yx4EGSuMdszNQ/agwLSBgnPXbDqSyufaC1wRfXk8vkW_xizeG5tipBFtn0Bn96ZkqOtwKNa8RKtkwnYdRVPGEj__G1o3GCozjgGQ/-PzWcM9r8KMb7XN5L3AMIpM8QCngpKnzQyNgUByHVd8",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 60,
+                "description": "更濃的綺夢紅茶，加上更濃的舶來紅茶，成就這杯古今中外茶香最濃的鮮奶茶。僅提供少冰"
             }
-          }
-        ],
-        "M": 25,
-        "L": 30,
-        "description": "出入口帶獨特奶香，後味有著高山茶的甘甜感，茶香不色，解膩首選"
-      }
-    },
-    {
-      "id": "recvKlSueOlsrK0Cx",
-      "createdTime": "2023-06-06T14:05:21.000Z",
-      "fields": {
-        "name": "鶴記紅茶鮮豆奶",
-        "category": [
-          "鍋煮鮮奶茶"
-        ],
-        "noCaffeine": "false",
-        "image": [
-          {
-            "id": "attonEGUghlHcsI1Z",
-            "width": 830,
-            "height": 832,
-            "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/EOnk14RwhpzfUesMzxPvEA/KG6RUmYAjD6pYD6g1sZ_RhKmnrco16X363bGCYMrG83WyZTg9JhXCMXolMNolsBbgYY_gpnZqYsZUxBnv4bKkQ/T3abVreZxHKv4NVN7sLnh-YRXMaAJofpxW8YbXUbXSs",
-            "filename": "鶴記紅茶鮮豆奶.png",
-            "size": 914064,
-            "type": "image/png",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/N3kgkOw42sy55XdKgLJSpA/UyEjP4vAADV1vG67Cf9cPAagebPNP5rck46yVrwxgxk4OGC_WrvmipOU9As3PvJQ56KhhUHmWLvTiv1DLlYoWQ/E6vSEblJtr24szGRSkftypQgN5_qhCjrNi3jcUqlX18",
-                "width": 36,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/zTtqIwzOtL1FU5IN5fBbZA/1A73BRQtk6RX6MN8H5od8jX5-Wqwa3MvAS7YYDaEoO9eRMBshWEQIAivDrru6lkKaXTa5tlPAENn2qPRcPcjSQ/A0x4YrKj8J3DwxKUmCnfX-Wl6cc_CmjV1twIMmBxo1s",
-                "width": 512,
-                "height": 513
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/17/17/1686139200000/7NDHy4829gSzGgTfhK6wsA/EWZ5luFFnp7y1IOXWMdoA3hVj0K-JMJo8xZ23kQ0-KY0Ofwo63EhwyoOjbyEM44D_V4ySq_3Tk40ILy9MfqMww/DkXWsWh4PO_Y0B3LDaKT1vS3G-NdL_S58OYHUYD_-lE",
-                "width": 3000,
-                "height": 3000
-              }
+        },
+        {
+            "id": "recsJgphEcPbTn5Oq",
+            "createdTime": "2023-06-06T14:13:30.000Z",
+            "fields": {
+                "name": "荔枝鶴頂紅茶",
+                "category": [
+                    "秘製鮮果茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attlbpdRtV9poyrTR",
+                        "width": 972,
+                        "height": 1108,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/LJmJTZqVJl_Rm0OzibdZmg/on9Pvaq32gaFACreKIj3rVh43Cvo8BTzcv1ZD5W32NOVHAfaK-layC9dQWbAKf84WNdTfq4zwcG_rL0WxHSmvw/qEfLYsdVltALGByHqF6d1ugWtn1YOYzSLKZh3Z1WJ00",
+                        "filename": "荔枝鶴頂紅茶.png",
+                        "size": 1451075,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/54AGZUx2_qAZd3vFLmowlA/d6niDP4l2GhOIGUReckwnYjZ0V5eOnGv398rpNxZ-6awejVy0PvtH16JxU38jtjloqusmYZizZO2sN9pE_iCLg/dw6EME4QIPuYZ6NriNAkx7t7OiRLlGWR6D4IrJ2uHAs",
+                                "width": 32,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/hp9yaS0u6zmS9gMiuvt3xw/ATvk4-a1d2QVqqMeNP3rqJiCxDqDL8KpF9RjNI3Bj24C4ctrCe4bF9CPyR6xJnOy66WQ__Xv6g69N0VcAK4bKQ/vPInIsPOPYni36-T6pawlCURVxKdfAG9PKn9ck5tX24",
+                                "width": 512,
+                                "height": 584
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/aC2ujW2_SfvZDCy2exQFRQ/j0shhab4LZEwj73sz_18FskXmUpT_4K4Mpao7-9pDYi5NbiGPoY85WF7LmN5hV8dYkB7bIbpXXOCFh8bLwx1PA/nDGQTRaePhMjglAnHFUzZa-KhEpDGqXDfr4IH3A4Xo8",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 55,
+                "L": 65,
+                "description": "皇家農場荔枝原汁搭配鶴頂紅茶，並加入養顏聖品-蘆薈，有口感又新鮮"
             }
-          }
-        ],
-        "M": 45,
-        "L": 55,
-        "options": [
-          "鶴頂",
-          "舶來",
-          "綺夢"
-        ]
-      }
-    },
-    {
-      "id": "recxyMGmSLlmK9h6W",
-      "createdTime": "2023-06-06T14:09:37.000Z",
-      "fields": {
-        "name": "883蕎麥茶王那提",
-        "category": [
-          "無咖啡因，老少咸宜"
-        ],
-        "noCaffeine": "true",
-        "M": 55,
-        "L": 65
-      }
-    }
-  ]
+        },
+        {
+            "id": "recvHtQ91w0b88nXY",
+            "createdTime": "2023-06-06T13:38:06.000Z",
+            "fields": {
+                "name": "金萱青茶",
+                "category": [
+                    "私藏古法茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attS2jmlgl3OHmN5V",
+                        "width": 960,
+                        "height": 962,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/XqFOPuYiQu3tX8UuM7rdWw/Ve0WjtOkAK1AV8nn9A_yCbkCmTr00CscYsPE6mlTkVvRfspLKemnrBf7DkRm6CIBYp2vt6BE2Z6olvGGsQ6PEA/UtpEnbXa7dvapy5B6ZNn-gDbwuLsC2LedweklBRteiE",
+                        "filename": "金萱青茶.png",
+                        "size": 1346081,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/xKxA3ZyplM4Nhvcr6-RgWQ/3skManNdwlcZKnd3NoXzc3M7Tk3b4wr5yeeniLMpxvQvuVupOgsRcZ6toPi7Jl3uRnfWBn_Yovum1pJWYdby-g/KuFZCrAUshrXHZ-ozQhbiJhdLz6MJYVpdlr6nq5gG2U",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/Qk67ElbffF5iroGnAplXVQ/RPEboYdJQumuF5J2YfW5HSRAL7lsWtuSdOsFp5f8NOFEp3BZlPdVeO-0dqNfJT71l112MgL5WoZDZzShSttnPQ/bgNJhiarhjeJBm6lWdCrvFZ6FWUL2P8Xh3fzhcmv0Sc",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/_7E1zXbqrnRD007Wdv3dIg/mbkNoPcV9Wz_OhDtXLtScOj5Je6ttpf9p2Th_ltUXJiVmJoyElc2elIoXiAGaUHJVMHNFXgbEYe_13ygQMXKXA/nUh5bM08NMduyPjzQPFlUMJj_m2YJ1aX8_SSwhp8-Lw",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 25,
+                "L": 30,
+                "description": "出入口帶獨特奶香，後味有著高山茶的甘甜感，茶香不色，解膩首選"
+            }
+        },
+        {
+            "id": "recvKlSueOlsrK0Cx",
+            "createdTime": "2023-06-06T14:05:21.000Z",
+            "fields": {
+                "name": "鶴記紅茶鮮豆奶",
+                "category": [
+                    "鍋煮鮮奶茶"
+                ],
+                "noCaffeine": "false",
+                "image": [
+                    {
+                        "id": "attonEGUghlHcsI1Z",
+                        "width": 830,
+                        "height": 832,
+                        "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/3my02couaX4FtKW5zUGbnw/Ehjcr6Iz_IHxqzK3gStzVv64u60KjV91FuMII_bbYDN4Us92TMKWOGnmQf9FuqdcrJUq84RetsciLrXzga04_w/L4pqjw2jjoB5daJgnHyT5jh2qakC1fJlOJ562oy23So",
+                        "filename": "鶴記紅茶鮮豆奶.png",
+                        "size": 914064,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/oQtFEzWihkOesbExoZSvHw/kscxc_F975EwI7QmjbxCYnpeoEgouDqXxWwD66G5mfv-coucYkG2VlM8897PMZYniMseOgxE9BnXI2OtE4aK9g/2mZQhl2-8lAcXWIghhEt_dAI5vQ1sFX1knjuqSvi00A",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/yxJUXGWuIuxJY2Pb7vnUew/4h47ePc54aseQxsIpwRKRv9ZwmIVNDt6VzreEnZ77GXLw7pKrQ1FRUlgXMaz8kfRduHWPK6jPt4KD4n_ZZrf7A/f2YZzhsh2QDlFf3e3qaR_Lw1st-z3TuyB4eLhPXSjl8",
+                                "width": 512,
+                                "height": 513
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v1/17/17/1686153600000/wVh1e96xjWmUCoFRxnhr6Q/h2xAFGkhzfO-53-Rmo0rqZfPHY96ROKtM9oiW2p4NfZvS34i3Rt-kKEOwc3asFQS36KsdzMDvdsfBe-HvbO41w/MK-jNa3EAkpWB9uzPUmN439c_R5blx7H-OvUWzwnDSE",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "M": 45,
+                "L": 55,
+                "options": [
+                    "鶴頂",
+                    "舶來",
+                    "綺夢"
+                ]
+            }
+        },
+        {
+            "id": "recxyMGmSLlmK9h6W",
+            "createdTime": "2023-06-06T14:09:37.000Z",
+            "fields": {
+                "name": "883蕎麥茶王那提",
+                "category": [
+                    "無咖啡因，老少咸宜"
+                ],
+                "noCaffeine": "true",
+                "M": 55,
+                "L": 65
+            }
+        }
+    ]
 }
